@@ -1,0 +1,42 @@
+{
+  "name": "xbravefrontier",
+  "version": "1.0.1",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch:css": "postcss src/css/style.css -o dist/output.css --watch",
+    "watch:js": "rollup -c -w",
+    "prod:css": "postcss src/css/style.css -o dist/output.css",
+    "prod:js": "rollup -c",
+    "build": "NODE_ENV=production npm run prod:css && npm run prod:js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satyakresna/xbravefrontier.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satyakresna/xbravefrontier/issues"
+  },
+  "homepage": "https://github.com/satyakresna/xbravefrontier#readme",
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^13.3.0",
+    "autoprefixer": "^10.4.7",
+    "cssnano": "^5.1.12",
+    "notyf": "^3.10.0",
+    "page": "^1.11.6",
+    "postcss": "^8.4.14",
+    "postcss-cli": "^10.0.0",
+    "rollup": "^2.77.0",
+    "rollup-plugin-terser": "^7.0.2",
+    "tailwindcss": "^3.1.6"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
