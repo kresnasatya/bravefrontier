@@ -15,7 +15,7 @@ export default function () {
         <h2 class="text-2xl my-4"><strong>Join me</strong></h2>
         <div class="leading-loose">
           <p>Join me on Brave Frontier game. My player ID is 5420823754.</p>
-          <img src="../../assets/images/kresna-player-id.jpg" alt="Kresna player ID" />
+          <img src="images/kresna-player-id.jpg" alt="Kresna player ID" />
         </div>
         <h2 class="text-2xl my-4"><strong>Courtesy</strong></h2>
         <ul class="leading-loose">

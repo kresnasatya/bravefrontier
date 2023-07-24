@@ -4,6 +4,8 @@ import setActiveMenu from "../utils/setActiveMenu.js";
 import setOgMeta from "../utils/setOgMeta.js";
 import { requestDbbs } from "../utils/request.js";
 import { getDbbKeywords } from "../utils/keywords.js";
+import Choices from "choices.js/public/assets/scripts/choices.js";
+import 'choices.js/public/assets/styles/choices.min.css';
 
 let searchDbbKeywordsEl;
 

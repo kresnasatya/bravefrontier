@@ -1,5 +1,3 @@
-const fetch = require('node-fetch');
-
 const ENDPOINT = 'https://raw.githubusercontent.com/kresnasatya/bfwiki-data/main/data/omniunits/raw.json';
 
 const headers = {
@@ -9,7 +7,7 @@ const headers = {
     'Content-Type': 'application/json',
 };
 
-exports.handler = async (event, context) => {
+export const handler = async (event, context) => {
     let response, body;
 
     try {
@@ -26,10 +24,11 @@ exports.handler = async (event, context) => {
     }
 
     const omniUnits = JSON.parse(body);
-
+    console.log(event);
+    // console.log(context);
     const pathParts = (event.path) ? event.path.split('/') : [];
-    if (pathParts[4]) {
-        let name = pathParts[4];
+    if (pathParts[3]) {
+        let name = pathParts[3];
         let selectedUnit = {};
         for (let omniUnit of omniUnits) {
             if (omniUnit.name === name.split('_').join(' ').trim()) {

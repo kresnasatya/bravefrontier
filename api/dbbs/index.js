@@ -1,5 +1,3 @@
-const fetch = require('node-fetch');
-
 const ENDPOINT = 'https://raw.githubusercontent.com/kresnasatya/bfwiki-data/main/data/dbbs/raw.json';
 
 const headers = {
@@ -9,7 +7,7 @@ const headers = {
     'Content-Type': 'application/json',
 };
 
-exports.handler = async (event, callback) => {
+export const handler = async (event, callback) => {
     let response, body;
     
     try {

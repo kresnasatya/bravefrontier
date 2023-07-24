@@ -1,5 +1,7 @@
 import { requestOmniUnit } from "../utils/request.js";
 import setOgMeta from "../utils/setOgMeta.js";
+import NProgress from 'nprogress';
+import 'nprogress/nprogress.css';
 
 export function loadOmniUnit(ctx, next) {
   // check if we have .state.omniunit already available
