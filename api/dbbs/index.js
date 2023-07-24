@@ -1,3 +1,5 @@
+import fetch from 'node-fetch';
+
 const ENDPOINT = 'https://raw.githubusercontent.com/kresnasatya/bfwiki-data/main/data/dbbs/raw.json';
 
 const headers = {

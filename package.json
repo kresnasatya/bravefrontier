@@ -26,6 +26,7 @@
   "devDependencies": {
     "autoprefixer": "^10.4.14",
     "choices.js": "^10.2.0",
+    "node-fetch": "^3.3.1",
     "notyf": "^3.10.0",
     "nprogress": "^0.2.0",
     "page": "^1.11.6",
