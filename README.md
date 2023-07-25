@@ -1,7 +1,7 @@
 # Brave Frontier Wiki Unofficial
 
 Brave Frontier Wiki Unofficial for Omniunits and Dual Brave Burst (DBB)s hosted in Netlify. 
-Site URL: https://bfwiki.netlify.app.
+Site URL: https://bravefrontier.netlify.app.
 
 ## Features
 
@@ -16,13 +16,13 @@ Site URL: https://bfwiki.netlify.app.
 
 ### List of Omni Units
 
-To get list of omni units please go to: https://bfwiki.netlify.app/api/omniunits. You can also get specific list of omni units by param search like `name` and `element`.
+To get list of omni units please go to: https://bravefrontier.netlify.app/api/omniunits. You can also get specific list of omni units by param search like `name` and `element`.
 
 Example:
 
-1. By `name` https://bfwiki.netlify.app/api/omniunits?name=war
-2. By `element` https://bfwiki.netlify.app/api/omniunits?element=fire
-3. By `name` and `element` https://bfwiki.netlify.app/api/omniunits?name=sun&element=fire
+1. By `name` https://bravefrontier.netlify.app/api/omniunits?name=war
+2. By `element` https://bravefrontier.netlify.app/api/omniunits?element=fire
+3. By `name` and `element` https://bravefrontier.netlify.app/api/omniunits?name=sun&element=fire
 
 ## Detail of Omni Unit
 
@@ -30,22 +30,21 @@ To get detail of omni unit, you should use `name` of omni unit as path and if sp
 
 Here's is example:
 
-1. Ignis Halcyon Vargas = https://bfwiki.netlify.app/api/omniunits/Ignis_Halcyon_Vargas
-2. Fearless Tate & Tama = https://bfwiki.netlify.app/api/omniunits/Fearless_Tate_&_Tama
-3. Kranus, the Argen = https://bfwiki.netlify.app/api/omniunits/Kranus,_the_Argent
+1. Ignis Halcyon Vargas = https://bravefrontier.netlify.app/api/omniunits/Ignis_Halcyon_Vargas
+2. Fearless Tate & Tama = https://bravefrontier.netlify.app/api/omniunits/Fearless_Tate_&_Tama
+3. Kranus, the Argen = https://bravefrontier.netlify.app/api/omniunits/Kranus,_the_Argent
 
 ## Technology
 
-This project design with monorepo powered by Netlify. Frontend based on Single Page Application stored in `public` folder and backend for API stored in `api` folder.
+This project design with Vite powered by Netlify.
 
-Data comes from [kresnasatya/bfwiki-data](https://github.com/kresnasatya/bfwiki-data).
+Data comes from [kresnasatya/bravefrontier-data](https://github.com/kresnasatya/bravefrontier-data).
 
 ### How to run?
 
 > This project require [Netlify CLI](https://cli.netlify.com/netlify-dev/) so please make sure you install it!
 
-**Note: this project requires Node JS version at least 16 or more.**
+**Note: this project requires Node JS version 18**
 - Clone this project.
-- Install dependencies with `npm install`.
+- Install dependencies with `pnpm install`.
 - Run `netlify dev`.
-- Run `npm run watch:css` and `npm run watch:js` in another tab terminal.

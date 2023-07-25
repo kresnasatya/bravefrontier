@@ -1,5 +1,5 @@
 {
-  "name": "bfwiki-netlify",
+  "name": "bravefrontier-netlify",
   "version": "1.0.1",
   "type": "module",
   "description": "",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kresnasatya/bfwiki-netlify.git"
+    "url": "git+https://github.com/kresnasatya/bravefrontier-netlify.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kresnasatya/bfwiki-netlify/issues"
+    "url": "https://github.com/kresnasatya/bravefrontier-netlify/issues"
   },
-  "homepage": "https://github.com/kresnasatya/bfwiki-netlify#readme",
+  "homepage": "https://github.com/kresnasatya/bravefrontier-netlify#readme",
   "engines": {
     "node": "18"
   },
