@@ -2,16 +2,17 @@
 
 Brave Frontier Wiki Unofficial for Omniunits and Dual Brave Burst (DBB)s hosted in Netlify and Vercel. 
 
-Site URL: https://bravefrontier.netlify.app.
+Netlify: https://bravefrontier.netlify.app
+Vercel: https://bravefrontier.vercel.app
 
 ## Features
 
-- [x] Get list of omni units
-- [x] Filter omni units based on name, element and **keywords**.
-- [x] Display detail of omni unit (Leader Skill, Extra Skill, Brave Burst, Super Brave Burst, Ultimate Brave Burst, Enhancements, SP Recommendation).
-- [x] Share detail of omni unit with Web Share API.
-- [x] Get list of Dual Brave Burst (DBB) of omni units.
-- [x] Filter DBBs based on name, elemental synergy and **keywords**.
+- Get list of omni units
+- Filter omni units based on name, element and **keywords**.
+- Display detail of omni unit (Leader Skill, Extra Skill, Brave Burst, Super Brave Burst, Ultimate Brave Burst, Enhancements, SP Recommendation).
+- Share detail of omni unit with Web Share API.
+- Get list of Dual Brave Burst (DBB) of omni units.
+- Filter DBBs based on name, elemental synergy and **keywords**.
 
 ## API
 
