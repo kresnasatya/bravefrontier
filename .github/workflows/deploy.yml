@@ -58,5 +58,5 @@ jobs:
       run: |
         netlify deploy \
           --dir dist \
-          --site ${{ secrets.NETLIFY_PROJECT_ID }}
+          --site ${{ secrets.NETLIFY_PROJECT_ID }} \
           --auth ${{ secrets.NETLIFY_TOKEN }}
