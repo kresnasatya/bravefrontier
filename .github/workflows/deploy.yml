@@ -51,6 +51,6 @@ jobs:
     - name: Install Netlify CLI
       run: pnpm install --global netlify@latest
     - name: Build Project Artifacts
-      run:
-        - pnpm install
-        - pnpm run build
+      run: |
+        pnpm install
+        pnpm run build
