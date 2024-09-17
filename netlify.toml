@@ -1,9 +1,9 @@
 [build]
     command = "pnpm run build"
-    functions = "api"
 
 [functions]
     node_bundler = "esbuild"
+    directory = "api/netlify"
     
 [[redirects]]
     from = "/api/*"

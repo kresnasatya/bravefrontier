@@ -1,6 +1,7 @@
 # Brave Frontier Wiki Unofficial
 
-Brave Frontier Wiki Unofficial for Omniunits and Dual Brave Burst (DBB)s hosted in Netlify. 
+Brave Frontier Wiki Unofficial for Omniunits and Dual Brave Burst (DBB)s hosted in Netlify and Vercel. 
+
 Site URL: https://bravefrontier.netlify.app.
 
 ## Features
