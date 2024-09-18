@@ -1,14 +1,14 @@
-export default async (req, res) => {
-    const protocol = req.headers['x-forwarded-proto'] || 'http'; // Vercel passes the protocol through this header
-    const host = req.headers.host; // The host header contains the domain and port
-    const origin = `${protocol}://${host}`;
+import { promises as fs } from 'fs';
+import path from 'path';
 
+export default async (req, res) => {
     let name = req.query.name;
     let element = req.query.element;
     let keywords = req.query.keywords;
     
-    let response = await fetch(`${origin}/data/omniunits/raw.json`);
-    let omniUnits = await response.json();
+    const filePath = path.join(process.cwd(), 'data', 'omniunits', 'raw.json');
+    const fileContents = await fs.readFile(filePath, 'utf8');
+    let omniUnits = JSON.parse(fileContents);
 
     let result;
     if (name && element && keywords) {

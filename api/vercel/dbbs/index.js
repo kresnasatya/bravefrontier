@@ -1,13 +1,13 @@
-export default async (req, res) => {
-    const protocol = req.headers['x-forwarded-proto'] || 'http'; // Vercel passes the protocol through this header
-    const host = req.headers.host; // The host header contains the domain and port
-    const origin = `${protocol}://${host}`;
+import { promises as fs } from 'fs';
+import path from 'path';
 
+export default async (req, res) => {
     let esname = req.query.esname;
     let unitname = req.query.unitname;
     
-    let response = await fetch(`${origin}/data/dbbs/raw.json`);
-    let dbbs = await response.json();
+    const filePath = path.join(process.cwd(), 'data', 'dbbs', 'raw.json');
+    const fileContents = await fs.readFile(filePath, 'utf8');
+    let dbbs = JSON.parse(fileContents);
     
     let result;
 
