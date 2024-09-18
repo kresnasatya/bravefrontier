@@ -4,6 +4,14 @@
         {
             "source": "/api/(.*)",
             "destination": "/api/vercel/$1"
+        },
+        {
+            "source": "/data/dbbs/raw.json",
+            "destination": "/data/dbbs/raw.json"
+        },
+        {
+            "source": "/data/omniunits/raw.json",
+            "destination": "/data/omniunits/raw.json"
         }
     ],
     "functions": {
