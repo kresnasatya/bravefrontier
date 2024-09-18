@@ -1,0 +1,47 @@
+name: Scraping Brave Frontier Global Wiki
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: pnpm/action-setup@v2
+      with:
+        version: 8
+    - uses: actions/setup-node@v2
+      name: Setup node
+      with:
+        node-version: '>=18'
+        cache: pnpm
+        cache-dependency-path: 'scrapers'
+    - name: Install dependecies
+      run: cd scrapers && pnpm install
+    - name: Store scraping omni units into raw file
+      run: cd scrapers && pnpm run omniunits:raw
+    - name: Store scrapping dbbs into raw file
+      run: cd scrapers && pnpm run dbbs:raw
+    - name: Upload omniunits thumbnails to Cloudinary
+      run: cd scrapers && pnpm run omniunits:thumbnails
+      env:
+        CLOUDINARY_CLOUD_NAME: ${{ secrets.CLOUDINARY_CLOUD_NAME }}
+        CLOUDINARY_API_KEY: ${{ secrets.CLOUDINARY_API_KEY }}
+        CLOUDINARY_API_SECRET: ${{ secrets.CLOUDINARY_API_SECRET }}
+    - name: Upload omniunits artworks to Cloudinary
+      run: cd scrapers && pnpm run omniunits:artworks
+      env:
+        CLOUDINARY_CLOUD_NAME: ${{ secrets.CLOUDINARY_CLOUD_NAME }}
+        CLOUDINARY_API_KEY: ${{ secrets.CLOUDINARY_API_KEY }}
+        CLOUDINARY_API_SECRET: ${{ secrets.CLOUDINARY_API_SECRET }}
+    - name: Commit files
+      run: |
+        git config --local user.email ${{ secrets.MY_EMAIL }}
+        git config --local user.name "Kresna Satya"
+        git add .
+        git commit -m "chore: update scrape data" -a
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
