@@ -1,8 +1,9 @@
-# Brave Frontier Wiki Unofficial
+# Brave Frontier Wiki
 
-Brave Frontier Wiki Unofficial for Omniunits and Dual Brave Burst (DBB)s hosted in Netlify and Vercel. 
+Brave Frontier Wiki Unofficial for Omniunits and Dual Brave Burst (DBB)s hosted in Netlify and Vercel. This project is an experiment how to deploy web app and API into duo popular serverless functions (Netlify and Vercel) in single repository.
 
 Netlify: https://bravefrontier.netlify.app
+
 Vercel: https://bravefrontier.vercel.app
 
 ## Features
@@ -16,37 +17,54 @@ Vercel: https://bravefrontier.vercel.app
 
 ## API
 
-### List of Omni Units
+### Omni Units
 
-To get list of omni units please go to: https://bravefrontier.netlify.app/api/omniunits. You can also get specific list of omni units by param search like `name` and `element`.
+To get list of omniunits use `/api/omniunits`.
+
+Netlify: https://bravefrontier.netlify.app/api/omniunits
+
+Vercel: https://bravefrontier.vercel.app/api/omniunits
+
+
+You can also get specific list of omni units by param search like `name` and `element`.
 
 Example:
 
-1. By `name` https://bravefrontier.netlify.app/api/omniunits?name=war
+1. By `name` 
+
+Netlify: https://bravefrontier.netlify.app/api/omniunits?name=war
+
+Vercel: https://bravefrontier.vercel.app/api/omniunits?name=war
+
 2. By `element` https://bravefrontier.netlify.app/api/omniunits?element=fire
-3. By `name` and `element` https://bravefrontier.netlify.app/api/omniunits?name=sun&element=fire
 
-## Detail of Omni Unit
+Netlify: https://bravefrontier.netlify.app/api/omniunits?element=fire
 
-To get detail of omni unit, you should use `name` of omni unit as path and if space(s) exist in omni unit's name then you should replace them with underscrore (_).
+Vercel: https://bravefrontier.vercel.app/api/omniunits?element=fire
 
-Here's is example:
+3. By `name` and `element`
 
-1. Ignis Halcyon Vargas = https://bravefrontier.netlify.app/api/omniunits/Ignis_Halcyon_Vargas
-2. Fearless Tate & Tama = https://bravefrontier.netlify.app/api/omniunits/Fearless_Tate_&_Tama
-3. Kranus, the Argen = https://bravefrontier.netlify.app/api/omniunits/Kranus,_the_Argent
+Netlify: https://bravefrontier.netlify.app/api/omniunits?name=sun&element=fire
 
-## Technology
+Vercel: https://bravefrontier.vercel.app/api/omniunits?name=sun&element=fire
 
-This project design with Vite powered by Netlify.
+### Detail of Omni Unit
 
-Data comes from [kresnasatya/bravefrontier-data](https://github.com/kresnasatya/bravefrontier-data).
+To get detail of omni unit, use slug of omni unit. To see the omni unit slug, please see in get omni units API.
+
+Example:
+
+Netlify: https://bravefrontier.netlify.app/omniunits/ignis-halcyon-vargas
+
+Vercel: https://bravefrontier.vercel.app/omniunits/ignis-halcyon-vargas
 
 ### How to run?
 
-> This project require [Netlify CLI](https://cli.netlify.com/netlify-dev/) so please make sure you install it!
+> This project requires Node JS version 18
 
-**Note: this project requires Node JS version 18**
+This project require [Netlify CLI](https://cli.netlify.com/netlify-dev/) and [Vercel CLI](https://vercel.com/docs/cli).
+
 - Clone this project.
 - Install dependencies with `pnpm install`.
-- Run `netlify dev`.
+- Run `netlify dev` in first terminal.
+- Run `vercel dev` in second terminal.
