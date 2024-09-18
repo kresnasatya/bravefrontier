@@ -1,4 +1,5 @@
-import fetch from 'node-fetch';
+import { promises as fs } from 'fs';
+import path from 'path';
 
 const headers = {
     'Access-Control-Allow-Origin': '*',
@@ -7,12 +8,11 @@ const headers = {
     'Content-Type': 'application/json',
 };
 
-export const handler = async (event, callback) => {
-    const url = new URL(event.rawUrl);
-    
+export const handler = async (event, context) => {
     try {
-        let response = await fetch(`${url.origin}/data/dbbs/raw.json`);
-        let dbbs = await response.json();
+        const filePath = path.join(process.cwd(), 'data', 'dbbs', 'raw.json');
+        const fileContents = await fs.readFile(filePath, 'utf8');
+        let dbbs = JSON.parse(fileContents);
 
         let unitname = event.queryStringParameters.unitname;
         let esname = event.queryStringParameters.esname;

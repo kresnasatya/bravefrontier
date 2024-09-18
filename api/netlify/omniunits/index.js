@@ -1,4 +1,5 @@
-import fetch from 'node-fetch';
+import { promises as fs } from 'fs';
+import path from 'path';
 
 const headers = {
     'Access-Control-Allow-Origin': '*',
@@ -8,13 +9,13 @@ const headers = {
 };
 
 export const handler = async (event, context) => {
-    const url = new URL(event.rawUrl);
     let result;
     let statusCode = 200;
 
     try {
-        let response = await fetch(`${url.origin}/data/omniunits/raw.json`);
-        let omniUnits = await response.json();
+        const filePath = path.join(process.cwd(), 'data', 'omniunits', 'raw.json');
+        const fileContents = await fs.readFile(filePath, 'utf8');
+        let omniUnits = JSON.parse(fileContents);
 
         const pathParts = (event.path) ? event.path.split('/') : [];
         if (pathParts[3]) {
@@ -96,10 +97,10 @@ export const handler = async (event, context) => {
         };
     } catch (error) {
         return {
-            statusCode: err.statusCode || 500,
+            statusCode: error.statusCode || 500,
             headers,
             body: JSON.stringify({
-                error: err.message
+                error: error.message
             })
         }
     }
