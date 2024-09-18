@@ -56,7 +56,7 @@ jobs:
         pnpm run build
     - name: Deploy Project Artifacts to Netlify
       run: |
-        netlify deploy \
+        netlify deploy --prod \
           --dir dist \
           --site ${{ secrets.NETLIFY_PROJECT_ID }} \
           --auth ${{ secrets.NETLIFY_TOKEN }}
