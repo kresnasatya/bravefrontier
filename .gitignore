@@ -1,6 +1,4 @@
 dist
-data
-scrapers
 node_modules
 .DS_Store
 .vercel

@@ -4,6 +4,7 @@
 [functions]
     node_bundler = "esbuild"
     directory = "api/netlify"
+    included_files = ["data/**"]
     
 [[redirects]]
     from = "/api/*"

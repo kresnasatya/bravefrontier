@@ -1,7 +1,5 @@
 import fetch from 'node-fetch';
 
-const ENDPOINT = 'https://raw.githubusercontent.com/kresnasatya/bravefrontier-data/main/data/dbbs/raw.json';
-
 const headers = {
     'Access-Control-Allow-Origin': '*',
     'Access-Control-Allow-Headers': 'Content-Type',
@@ -10,13 +8,11 @@ const headers = {
 };
 
 export const handler = async (event, callback) => {
-    let response, body;
+    const url = new URL(event.rawUrl);
     
     try {
-        response = await fetch(ENDPOINT);
-        body = await response.text();
-
-        dbbs = JSON.parse(body);
+        let response = await fetch(`${url.origin}/data/dbbs/raw.json`);
+        let dbbs = await response.json();
 
         let unitname = event.queryStringParameters.unitname;
         let esname = event.queryStringParameters.esname;

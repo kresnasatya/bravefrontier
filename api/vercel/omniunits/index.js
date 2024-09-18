@@ -1,13 +1,14 @@
-const ENDPOINT = 'https://raw.githubusercontent.com/kresnasatya/bravefrontier-data/main/data/omniunits/raw.json';
-
 export default async (req, res) => {
+    const protocol = req.headers['x-forwarded-proto'] || 'http'; // Vercel passes the protocol through this header
+    const host = req.headers.host; // The host header contains the domain and port
+    const origin = `${protocol}://${host}`;
+
     let name = req.query.name;
     let element = req.query.element;
     let keywords = req.query.keywords;
     
-    let response = await fetch(ENDPOINT);
-    let body = await response.text();
-    const omniUnits = JSON.parse(body);
+    let response = await fetch(`${origin}/data/omniunits/raw.json`);
+    let omniUnits = await response.json();
 
     let result;
     if (name && element && keywords) {

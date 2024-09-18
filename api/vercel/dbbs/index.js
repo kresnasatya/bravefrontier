@@ -1,12 +1,13 @@
-const ENDPOINT = 'https://raw.githubusercontent.com/kresnasatya/bravefrontier-data/main/data/dbbs/raw.json';
-
 export default async (req, res) => {
+    const protocol = req.headers['x-forwarded-proto'] || 'http'; // Vercel passes the protocol through this header
+    const host = req.headers.host; // The host header contains the domain and port
+    const origin = `${protocol}://${host}`;
+
     let esname = req.query.esname;
     let unitname = req.query.unitname;
     
-    let response = await fetch(ENDPOINT);
-    let body = await response.text();
-    const dbbs = JSON.parse(body);
+    let response = await fetch(`${origin}/data/dbbs/raw.json`);
+    let dbbs = await response.json();
     
     let result;
 

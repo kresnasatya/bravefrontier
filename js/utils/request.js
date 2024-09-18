@@ -5,8 +5,8 @@ export const requestOmniUnits = async (querystring = '') => {
   return json;
 }
 
-export const requestOmniUnit = async (name) => {
-  const URL = `/api/omniunits/${decodeURIComponent(name)}`;
+export const requestOmniUnit = async (slug) => {
+  const URL = `/api/omniunits/${slug}`;
   const response = await fetch(URL);
   const json = await response.json();
   return json;
