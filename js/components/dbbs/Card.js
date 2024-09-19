@@ -1,15 +1,16 @@
 export default function (dbb) {
+    let htmlString = ``;
+    for (const unit of dbb.units) {
+        htmlString += `<a href="/omniunits/${unit.slug}">
+                    <img class="mx-4" data-src="${unit.thumbnail}" width="50" height="50" alt="${unit.name}'s thumbnail" />
+        </a>`;
+    }
     return document.createRange().createContextualFragment(`
     <li class="dbb-card">
         <div class="dbb-card-container">
             <p class="dbb-elemental-synergy">${dbb.elementalSynergyName}</p>
             <div class="flex m-4">
-                <a href="/omniunits/${dbb.firstUnitSlug}">
-                    <img class="mx-4" data-src="${dbb.firstUnitThumbnail}" width="50" height="50" alt="${dbb.firstUnitName}'s thumbnail" />
-                </a>
-                <a href="/omniunits/${dbb.secondUnitSlug}">
-                    <img class="mx-4" data-src="${dbb.secondUnitThumbnail}" width="50" height="50" alt="${dbb.secondUnitName}'s thumbnail" />
-                </a>
+                ${htmlString}
             </div>
             <p class="dbb-card-name">${dbb.dbbName}</p>
         </div>

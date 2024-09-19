@@ -6,8 +6,6 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "omniunits:artworks": "node omniunits/artworks.js",
-    "omniunits:thumbnails": "node omniunits/thumbnails.js",
     "omniunits:raw": "node omniunits/raw.js",
     "dbbs:raw": "node dbbs/raw.js"
   },

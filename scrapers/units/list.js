@@ -1,10 +1,11 @@
-import { parseHTML } from 'linkedom';
+import { DOMParser } from 'linkedom';
+import { createSlug } from '../helper.js';
 
 const units = [];
 
-function scrape(document) {
+async function scrape(document) {
     const rows = Array.from(document.querySelector('table.wikitable tbody').querySelectorAll('tr'));
-    let id, name, link, thumbnail, element, rarity, cost;
+    let id, name, slug, link, thumbnail, element, rarity, cost;
     for (let i = 0; i < rows.length; i++) {
         const columns = rows[i].querySelectorAll('td');
         for (let j = 0; j < columns.length; j++) {
@@ -23,6 +24,7 @@ function scrape(document) {
                         }
                     }
                     name = column.querySelectorAll('a')[1].getAttribute('title');
+                    slug = createSlug(name);
                     link = `${rootUrl}${column.querySelectorAll('a')[1].getAttribute('href')}`;
                     break;
                 case 2:
@@ -37,7 +39,7 @@ function scrape(document) {
             }
         }
         units.push({
-            id, name, link, thumbnail, element, rarity, cost
+            id, name, slug, link, thumbnail, element, rarity, cost
         });
     }
 }
@@ -48,9 +50,9 @@ export default async function getUnitSeries(url) {
     try {
         const response = await fetch(url);
         const text = await response.text();
-        const { document } = parseHTML(text);
+        const document = (new DOMParser).parseFromString(text, "text/html");
 
-        scrape(document);
+        await scrape(document);
 
         // Recursion start
         const nextElementSibling = document.querySelector('.mw-selflink.selflink').nextElementSibling;

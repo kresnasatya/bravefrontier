@@ -15,3 +15,35 @@ export const milisConverter = (millis) => {
     const seconds = ((millis % 60000) / 1000).toFixed(0);
     return `${(seconds == 60 ? (minutes + 1) : minutes)} ${(minutes > 1) ? "minutes" : "minute"} and ${(seconds < 10 ? "0" : seconds)} ${(seconds > 1 ? "seconds" : "second")}`;
 };
+
+export const createSlug = (name) => {
+    return name.toLowerCase()
+    .replace(/[^\w\s-]/g, '') // Remove special characters
+    .replace(/\s+/g, '-') // Replace spaces with hypens
+    .replace(/^-+|-+$/g, '') // Remove leading and trailing hyphens
+}
+
+import 'dotenv/config';
+import { v2 as cloudinary } from 'cloudinary';
+export async function uploadToCloudinary(data, options) {
+    let { key, folder } = options;
+    cloudinary.config({
+        cloud_name: process.env.CLOUDINARY_CLOUD_NAME,
+        api_key: process.env.CLOUDINARY_API_KEY,
+        api_secret: process.env.CLOUDINARY_API_SECRET
+    });
+
+    for (const item of data) {
+        let result = await cloudinary.uploader.upload(item[key], {
+            public_id: item.id,
+            folder,
+            // in milliseconds
+            timeout: 60000
+        }, (error, response) => {
+            if (error) throw error;
+            console.log(`Success upload ${item.name}'s thumbnail to ${response.secure_url}`)
+        });
+
+        item[key] = result.secure_url;
+    }
+}

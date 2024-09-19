@@ -1,4 +1,4 @@
-import getUnitSeries from './scrapers/list.js';
+import getUnitSeries from './list.js';
 const firstMainSeriesUrl = "https://bravefrontierglobal.fandom.com/wiki/Unit_List";
 const firstGlobalExclusiveSeriesUrl = "https://bravefrontierglobal.fandom.com/wiki/Unit_List:7000";
 

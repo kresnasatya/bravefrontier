@@ -25,5 +25,6 @@ const outputFile = path.join(__dirname, '..', '..', 'data', 'omniunits', 'raw.js
 
         const t1 = performance.now();
         console.log(`\n Process took: ${milisConverter(t1 - t0)}. \n`);
+        process.exit(0);
     });
 })();

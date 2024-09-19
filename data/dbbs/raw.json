@@ -1,11 +1,19 @@
 [
  {
-  "firstUnitName": "Cosmic Chef Giselle",
-  "firstUnitSlug": "cosmic-chef-giselle",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8663",
-  "secondUnitName": "Berserk Ezra",
-  "secondUnitSlug": "berserk-ezra",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8649",
+  "units": [
+   {
+    "name": "Cosmic Chef Giselle",
+    "id": "8663",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726643035/bravefrontier/omniunits/thumbnails/8663.png",
+    "slug": "cosmic-chef-giselle"
+   },
+   {
+    "name": "Berserk Ezra",
+    "id": "8649",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8649.png",
+    "slug": "berserk-ezra"
+   }
+  ],
   "releaseDate": "November 10, 2021",
   "elementalSynergyName": "Pyre",
   "elementalSynergyDesc": "Chance to purge and negate Doom and Ennui effects",
@@ -14,34 +22,46 @@
   "dbbDesc": "70 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, own spark damage, fills OD gauge at turn's end, boosts damage against status afflicted foes, damage taken boosts BB gauge and restores HP, inflicts Atk, Def reduction, spark vulnerability infliction",
   "keywords": [
    "OD gauge"
-  ],
-  "firstUnitId": "8663",
-  "secondUnitId": "8649"
+  ]
  },
  {
-  "firstUnitName": "Cosmic Chef Giselle",
-  "firstUnitSlug": "cosmic-chef-giselle",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8663",
-  "secondUnitName": "Kranus, the Argent",
-  "secondUnitSlug": "kranus-the-argent",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8646",
+  "units": [
+   {
+    "name": "Cosmic Chef Giselle",
+    "id": "8663",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726643035/bravefrontier/omniunits/thumbnails/8663.png",
+    "slug": "cosmic-chef-giselle"
+   },
+   {
+    "name": "Kranus, the Argent",
+    "id": "8646",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8646.png",
+    "slug": "kranus-the-argent"
+   }
+  ],
   "releaseDate": "November 10, 2021",
   "elementalSynergyName": "Nova",
   "elementalSynergyDesc": "Chance to purge and negate Lock effects",
   "dbbId": 140,
   "dbbName": "Cosmic Fare",
   "dbbDesc": "60 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, spark damage, boosts damage against status afflicted foes, spark damage restores HP, damage taken boosts BB gauge and restores HP, inflicts Atk, Def reduction",
-  "keywords": [],
-  "firstUnitId": "8663",
-  "secondUnitId": "8646"
+  "keywords": []
  },
  {
-  "firstUnitName": "Cosmic Chef Giselle",
-  "firstUnitSlug": "cosmic-chef-giselle",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8663",
-  "secondUnitName": "Sun-kissed Tilith",
-  "secondUnitSlug": "sun-kissed-tilith",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8648",
+  "units": [
+   {
+    "name": "Cosmic Chef Giselle",
+    "id": "8663",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726643035/bravefrontier/omniunits/thumbnails/8663.png",
+    "slug": "cosmic-chef-giselle"
+   },
+   {
+    "name": "Sun-kissed Tilith",
+    "id": "8648",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640114/bravefrontier/omniunits/thumbnails/8648.png",
+    "slug": "sun-kissed-tilith"
+   }
+  ],
   "releaseDate": "November 10, 2021",
   "elementalSynergyName": "Magma",
   "elementalSynergyDesc": "Chance to negate BB and OD Drain effects",
@@ -50,17 +70,23 @@
   "dbbDesc": "60 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, all elemental damage, Atk, Def, Rec relative to max HP, BB gauge, OD gauge, boosts damage against status afflicted foes, damage taken boosts BB gauge and restores HP, inflicts Atk, Def reduction",
   "keywords": [
    "OD gauge"
-  ],
-  "firstUnitId": "8663",
-  "secondUnitId": "8648"
+  ]
  },
  {
-  "firstUnitName": "Blast Brigadier Buck",
-  "firstUnitSlug": "blast-brigadier-buck",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8662",
-  "secondUnitName": "Hyper Tank Bonnie",
-  "secondUnitSlug": "hyper-tank-bonnie",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8517",
+  "units": [
+   {
+    "name": "Blast Brigadier Buck",
+    "id": "8662",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8662.png",
+    "slug": "blast-brigadier-buck"
+   },
+   {
+    "name": "Hyper Tank Bonnie",
+    "id": "8517",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8517.png",
+    "slug": "hyper-tank-bonnie"
+   }
+  ],
   "releaseDate": "April 14, 2021",
   "elementalSynergyName": "Blast",
   "elementalSynergyDesc": "Deals piercing max HP% damage to single foe, raises allies from KO, grants Invincibility but inflicts KO on all allies on effect end (available when foe HP is below certain amount)",
@@ -69,17 +95,23 @@
   "dbbDesc": "46 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, spark damage, critical damage, BB Atk, fills BB, OD gauge, BC, HC, item drop rate, Spark damage boosts BB gauge",
   "keywords": [
    "OD gauge"
-  ],
-  "firstUnitId": "8662",
-  "secondUnitId": "8517"
+  ]
  },
  {
-  "firstUnitName": "Blast Brigadier Buck",
-  "firstUnitSlug": "blast-brigadier-buck",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8662",
-  "secondUnitName": "Boltstriker Lleva",
-  "secondUnitSlug": "boltstriker-lleva",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8661",
+  "units": [
+   {
+    "name": "Blast Brigadier Buck",
+    "id": "8662",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8662.png",
+    "slug": "blast-brigadier-buck"
+   },
+   {
+    "name": "Boltstriker Lleva",
+    "id": "8661",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8661.png",
+    "slug": "boltstriker-lleva"
+   }
+  ],
   "releaseDate": "April 14, 2021",
   "elementalSynergyName": "Blast",
   "elementalSynergyDesc": "Deals piercing max HP% damage to single foe, raises allies from KO, grants Invincibility but inflicts KO on all allies on effect end (available when foe HP is below certain amount)",
@@ -89,17 +121,23 @@
   "keywords": [
    "adds status ailment infliction to attack",
    "raises allies from KO"
-  ],
-  "firstUnitId": "8662",
-  "secondUnitId": "8661"
+  ]
  },
  {
-  "firstUnitName": "Hyper Tank Bonnie",
-  "firstUnitSlug": "hyper-tank-bonnie",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8517",
-  "secondUnitName": "Boltstriker Lleva",
-  "secondUnitSlug": "boltstriker-lleva",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8661",
+  "units": [
+   {
+    "name": "Hyper Tank Bonnie",
+    "id": "8517",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8517.png",
+    "slug": "hyper-tank-bonnie"
+   },
+   {
+    "name": "Boltstriker Lleva",
+    "id": "8661",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8661.png",
+    "slug": "boltstriker-lleva"
+   }
+  ],
   "releaseDate": "April 7, 2021",
   "elementalSynergyName": "Plasma",
   "elementalSynergyDesc": "Deals piercing max HP% DoT to single Water foe",
@@ -109,51 +147,69 @@
   "keywords": [
    "adds status ailment infliction to attack",
    "raises allies from KO"
-  ],
-  "firstUnitId": "8517",
-  "secondUnitId": "8661"
+  ]
  },
  {
-  "firstUnitName": "Somber Guardian Angahl",
-  "firstUnitSlug": "somber-guardian-angahl",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8660",
-  "secondUnitName": "Sightless Light Phaedra",
-  "secondUnitSlug": "sightless-light-phaedra",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8659",
+  "units": [
+   {
+    "name": "Somber Guardian Angahl",
+    "id": "8660",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8660.png",
+    "slug": "somber-guardian-angahl"
+   },
+   {
+    "name": "Sightless Light Phaedra",
+    "id": "8659",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8659.png",
+    "slug": "sightless-light-phaedra"
+   }
+  ],
   "releaseDate": "March 17, 2021",
   "elementalSynergyName": "Prism",
   "elementalSynergyDesc": "Deals piercing max HP% damage to single foe and boosts offense but self-KO until battle end (available when foe HP is below certain amount)",
   "dbbId": 135,
   "dbbName": "Oathkeeper",
   "dbbDesc": "68 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, spark damage, own spark damage, fills BB gauge, 100% damage reduction, Atk, Def, Rec relative to max HP, spark vulnerability infliction",
-  "keywords": [],
-  "firstUnitId": "8660",
-  "secondUnitId": "8659"
+  "keywords": []
  },
  {
-  "firstUnitName": "Deepwood Syrinx Miell",
-  "firstUnitSlug": "deepwood-syrinx-miell",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8505",
-  "secondUnitName": "Somber Guardian Angahl",
-  "secondUnitSlug": "somber-guardian-angahl",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8660",
+  "units": [
+   {
+    "name": "Deepwood Syrinx Miell",
+    "id": "8505",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640113/bravefrontier/omniunits/thumbnails/8505.png",
+    "slug": "deepwood-syrinx-miell"
+   },
+   {
+    "name": "Somber Guardian Angahl",
+    "id": "8660",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8660.png",
+    "slug": "somber-guardian-angahl"
+   }
+  ],
   "releaseDate": "March 17, 2021",
   "elementalSynergyName": "Tremor",
   "elementalSynergyDesc": "Deals piercing max HP% DoT to single Thunder foe",
   "dbbId": 134,
   "dbbName": "Earthbound Fury",
   "dbbDesc": "44 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, own spark damage, max HP, fills BB gauge, 100% damage reduction, spark vulnerability infliction, damage taken boosts BB gauge and restores HP",
-  "keywords": [],
-  "firstUnitId": "8505",
-  "secondUnitId": "8660"
+  "keywords": []
  },
  {
-  "firstUnitName": "Deepwood Syrinx Miell",
-  "firstUnitSlug": "deepwood-syrinx-miell",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8505",
-  "secondUnitName": "Sightless Light Phaedra",
-  "secondUnitSlug": "sightless-light-phaedra",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8659",
+  "units": [
+   {
+    "name": "Deepwood Syrinx Miell",
+    "id": "8505",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640113/bravefrontier/omniunits/thumbnails/8505.png",
+    "slug": "deepwood-syrinx-miell"
+   },
+   {
+    "name": "Sightless Light Phaedra",
+    "id": "8659",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8659.png",
+    "slug": "sightless-light-phaedra"
+   }
+  ],
   "releaseDate": "March 10, 2021",
   "elementalSynergyName": "Prism",
   "elementalSynergyDesc": "Deals piercing max HP% damage to single foe and boosts offense but self-KO until battle end (available when foe HP is below certain amount)",
@@ -162,17 +218,23 @@
   "dbbDesc": "68 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, max HP, spark damage, Atk, Def, Rec relative to max HP, spark vulnerability infliction, damage taken boosts BB gauge and restores HP, 100% raises allies from KO",
   "keywords": [
    "raises allies from KO"
-  ],
-  "firstUnitId": "8505",
-  "secondUnitId": "8659"
+  ]
  },
  {
-  "firstUnitName": "Consecrated Sin Nimrah",
-  "firstUnitSlug": "consecrated-sin-nimrah",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8596",
-  "secondUnitName": "Umbral Whisper Nabris",
-  "secondUnitSlug": "umbral-whisper-nabris",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8658",
+  "units": [
+   {
+    "name": "Consecrated Sin Nimrah",
+    "id": "8596",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8596.png",
+    "slug": "consecrated-sin-nimrah"
+   },
+   {
+    "name": "Umbral Whisper Nabris",
+    "id": "8658",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640113/bravefrontier/omniunits/thumbnails/8658.png",
+    "slug": "umbral-whisper-nabris"
+   }
+  ],
   "releaseDate": "February 18, 2021",
   "elementalSynergyName": "Cyclone",
   "elementalSynergyDesc": "Chance to negate KO resistance effects on all foes",
@@ -181,17 +243,23 @@
   "dbbDesc": "48 combo grand dual attack on all foes (damage relative to remaining HP), boosts Thunder, Dark elemental damage, fills BB gauge, fully restores HP, Atk, Rec relative to Def, boosts damage against status afflicted foes, inflicts Atk, Def reduction, damage taken boosts BB gauge and restores HP, 80% raises allies from KO",
   "keywords": [
    "raises allies from KO"
-  ],
-  "firstUnitId": "8596",
-  "secondUnitId": "8658"
+  ]
  },
  {
-  "firstUnitName": "Heartstringer Guinne",
-  "firstUnitSlug": "heartstringer-guinne",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8657",
-  "secondUnitName": "Umbral Whisper Nabris",
-  "secondUnitSlug": "umbral-whisper-nabris",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8658",
+  "units": [
+   {
+    "name": "Heartstringer Guinne",
+    "id": "8657",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8657.png",
+    "slug": "heartstringer-guinne"
+   },
+   {
+    "name": "Umbral Whisper Nabris",
+    "id": "8658",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640113/bravefrontier/omniunits/thumbnails/8658.png",
+    "slug": "umbral-whisper-nabris"
+   }
+  ],
   "releaseDate": "February 18, 2021",
   "elementalSynergyName": "Pyre",
   "elementalSynergyDesc": "Chance to purge and negate Doom and Ennui effects",
@@ -201,17 +269,23 @@
   "keywords": [
    "100% evasion",
    "raises normal hit amount"
-  ],
-  "firstUnitId": "8657",
-  "secondUnitId": "8658"
+  ]
  },
  {
-  "firstUnitName": "Heartstringer Guinne",
-  "firstUnitSlug": "heartstringer-guinne",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8657",
-  "secondUnitName": "Consecrated Sin Nimrah",
-  "secondUnitSlug": "consecrated-sin-nimrah",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8596",
+  "units": [
+   {
+    "name": "Heartstringer Guinne",
+    "id": "8657",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8657.png",
+    "slug": "heartstringer-guinne"
+   },
+   {
+    "name": "Consecrated Sin Nimrah",
+    "id": "8596",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8596.png",
+    "slug": "consecrated-sin-nimrah"
+   }
+  ],
   "releaseDate": "February 18, 2021",
   "elementalSynergyName": "Blast",
   "elementalSynergyDesc": "Deals piercing max HP% damage to single foe, raises allies from KO, grants Invincibility but inflicts KO on all allies on effect end (available when foe HP is below certain amount)",
@@ -222,17 +296,23 @@
    "100% evasion",
    "raises normal hit amount",
    "raises allies from KO"
-  ],
-  "firstUnitId": "8657",
-  "secondUnitId": "8596"
+  ]
  },
  {
-  "firstUnitName": "Heartstringer Guinne",
-  "firstUnitSlug": "heartstringer-guinne",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8657",
-  "secondUnitName": "Faithless Seeker Renatus",
-  "secondUnitSlug": "faithless-seeker-renatus",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8597",
+  "units": [
+   {
+    "name": "Heartstringer Guinne",
+    "id": "8657",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8657.png",
+    "slug": "heartstringer-guinne"
+   },
+   {
+    "name": "Faithless Seeker Renatus",
+    "id": "8597",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8597.png",
+    "slug": "faithless-seeker-renatus"
+   }
+  ],
   "releaseDate": "February 18, 2021",
   "elementalSynergyName": "Steam",
   "elementalSynergyDesc": "Boosts DBB Synergy Shards (available when cooldown count is 0)",
@@ -244,17 +324,23 @@
    "OD gauge",
    "raises normal hit amount",
    "adds status ailment infliction to attack"
-  ],
-  "firstUnitId": "8657",
-  "secondUnitId": "8597"
+  ]
  },
  {
-  "firstUnitName": "Spirited Beast Ni'en",
-  "firstUnitSlug": "spirited-beast-nien",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8656",
-  "secondUnitName": "Dismal Omen Luro",
-  "secondUnitSlug": "dismal-omen-luro",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8654",
+  "units": [
+   {
+    "name": "Spirited Beast Ni'en",
+    "id": "8656",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640113/bravefrontier/omniunits/thumbnails/8656.png",
+    "slug": "spirited-beast-nien"
+   },
+   {
+    "name": "Dismal Omen Luro",
+    "id": "8654",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8654.png",
+    "slug": "dismal-omen-luro"
+   }
+  ],
   "releaseDate": "January 13, 2021",
   "elementalSynergyName": "Twilight",
   "elementalSynergyDesc": "Boosts max HP relative to Rec and raises max HP limit",
@@ -263,17 +349,23 @@
   "dbbDesc": "56 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, max HP, spark damage, critical damage, spark critical, damage taken boosts BB gauge and restores HP, 100% evasion",
   "keywords": [
    "100% evasion"
-  ],
-  "firstUnitId": "8656",
-  "secondUnitId": "8654"
+  ]
  },
  {
-  "firstUnitName": "Sweet Dreamer Maeri",
-  "firstUnitSlug": "sweet-dreamer-maeri",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8651",
-  "secondUnitName": "Dismal Omen Luro",
-  "secondUnitSlug": "dismal-omen-luro",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8654",
+  "units": [
+   {
+    "name": "Sweet Dreamer Maeri",
+    "id": "8651",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8651.png",
+    "slug": "sweet-dreamer-maeri"
+   },
+   {
+    "name": "Dismal Omen Luro",
+    "id": "8654",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8654.png",
+    "slug": "dismal-omen-luro"
+   }
+  ],
   "releaseDate": "January 13, 2021",
   "elementalSynergyName": "Miasma",
   "elementalSynergyDesc": "Reduces healing effectiveness of single foe",
@@ -283,17 +375,23 @@
   "keywords": [
    "100% evasion",
    "OD gauge"
-  ],
-  "firstUnitId": "8651",
-  "secondUnitId": "8654"
+  ]
  },
  {
-  "firstUnitName": "Whitefang Kisrai",
-  "firstUnitSlug": "whitefang-kisrai",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8655",
-  "secondUnitName": "Dismal Omen Luro",
-  "secondUnitSlug": "dismal-omen-luro",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8654",
+  "units": [
+   {
+    "name": "Whitefang Kisrai",
+    "id": "8655",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8655.png",
+    "slug": "whitefang-kisrai"
+   },
+   {
+    "name": "Dismal Omen Luro",
+    "id": "8654",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8654.png",
+    "slug": "dismal-omen-luro"
+   }
+  ],
   "releaseDate": "January 13, 2021",
   "elementalSynergyName": "Cyclone",
   "elementalSynergyDesc": "Chance to negate KO resistance effects on all foes",
@@ -302,51 +400,69 @@
   "dbbDesc": "56 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, spark damage, Thunder, Dark elemental damage, Atk, Def, Rec relative to max HP, spark critical, Spark damage boosts BB gauge, 100% evasion",
   "keywords": [
    "100% evasion"
-  ],
-  "firstUnitId": "8655",
-  "secondUnitId": "8654"
+  ]
  },
  {
-  "firstUnitName": "Whitefang Kisrai",
-  "firstUnitSlug": "whitefang-kisrai",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8655",
-  "secondUnitName": "Spirited Beast Ni'en",
-  "secondUnitSlug": "spirited-beast-nien",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8656",
+  "units": [
+   {
+    "name": "Whitefang Kisrai",
+    "id": "8655",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8655.png",
+    "slug": "whitefang-kisrai"
+   },
+   {
+    "name": "Spirited Beast Ni'en",
+    "id": "8656",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640113/bravefrontier/omniunits/thumbnails/8656.png",
+    "slug": "spirited-beast-nien"
+   }
+  ],
   "releaseDate": "January 13, 2021",
   "elementalSynergyName": "Radiance",
   "elementalSynergyDesc": "Chance to purge and negate HP and Heal reduction effects",
   "dbbId": 125,
   "dbbName": "Chaotic Clamor",
   "dbbDesc": "40 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, max HP, critical damage, Thunder, Light elemental damage, Atk, Def, Rec relative to max HP, spark damage boosts BB gauge",
-  "keywords": [],
-  "firstUnitId": "8655",
-  "secondUnitId": "8656"
+  "keywords": []
  },
  {
-  "firstUnitName": "Emberheart Vyrr",
-  "firstUnitSlug": "emberheart-vyrr",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8652",
-  "secondUnitName": "Whitefang Kisrai",
-  "secondUnitSlug": "whitefang-kisrai",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8655",
+  "units": [
+   {
+    "name": "Emberheart Vyrr",
+    "id": "8652",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8652.png",
+    "slug": "emberheart-vyrr"
+   },
+   {
+    "name": "Whitefang Kisrai",
+    "id": "8655",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8655.png",
+    "slug": "whitefang-kisrai"
+   }
+  ],
   "releaseDate": "January 13, 2021",
   "elementalSynergyName": "Blast",
   "elementalSynergyDesc": "Deals piercing max HP% damage to single foe, raises allies from KO, grants Invincibility but inflicts KO on all allies on effect end (available when foe HP is below certain amount)",
   "dbbId": 124,
   "dbbName": "Fang and Claw",
   "dbbDesc": "46 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, max HP, critical damage, Fire, Thunder elemental damage, Atk, Def, Rec relative to max HP, fully restores HP, spark damage boosts BB gauge",
-  "keywords": [],
-  "firstUnitId": "8652",
-  "secondUnitId": "8655"
+  "keywords": []
  },
  {
-  "firstUnitName": "Emberheart Vyrr",
-  "firstUnitSlug": "emberheart-vyrr",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8652",
-  "secondUnitName": "Sweet Dreamer Maeri",
-  "secondUnitSlug": "sweet-dreamer-maeri",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8651",
+  "units": [
+   {
+    "name": "Emberheart Vyrr",
+    "id": "8652",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8652.png",
+    "slug": "emberheart-vyrr"
+   },
+   {
+    "name": "Sweet Dreamer Maeri",
+    "id": "8651",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8651.png",
+    "slug": "sweet-dreamer-maeri"
+   }
+  ],
   "releaseDate": "December 30, 2020",
   "elementalSynergyName": "Steam",
   "elementalSynergyDesc": "Boosts DBB Synergy Shards (available when cooldown count is 0)",
@@ -355,17 +471,23 @@
   "dbbDesc": "48 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, max HP, spark damage, critical damage, Atk, Def, Rec relative to max HP, OD gauge, fully restores HP, 100% damage reduction, spark vulnerability infliction",
   "keywords": [
    "OD gauge"
-  ],
-  "firstUnitId": "8652",
-  "secondUnitId": "8651"
+  ]
  },
  {
-  "firstUnitName": "Emberheart Vyrr",
-  "firstUnitSlug": "emberheart-vyrr",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8652",
-  "secondUnitName": "Arboreal Glaes",
-  "secondUnitSlug": "arboreal-glaes",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8653",
+  "units": [
+   {
+    "name": "Emberheart Vyrr",
+    "id": "8652",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8652.png",
+    "slug": "emberheart-vyrr"
+   },
+   {
+    "name": "Arboreal Glaes",
+    "id": "8653",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640112/bravefrontier/omniunits/thumbnails/8653.png",
+    "slug": "arboreal-glaes"
+   }
+  ],
   "releaseDate": "December 30, 2020",
   "elementalSynergyName": "Magma",
   "elementalSynergyDesc": "Chance to negate BB and OD Drain effects",
@@ -375,17 +497,23 @@
   "keywords": [
    "100% DoT reduction",
    "raises allies from KO"
-  ],
-  "firstUnitId": "8652",
-  "secondUnitId": "8653"
+  ]
  },
  {
-  "firstUnitName": "Sweet Dreamer Maeri",
-  "firstUnitSlug": "sweet-dreamer-maeri",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8651",
-  "secondUnitName": "Arboreal Glaes",
-  "secondUnitSlug": "arboreal-glaes",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8653",
+  "units": [
+   {
+    "name": "Sweet Dreamer Maeri",
+    "id": "8651",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8651.png",
+    "slug": "sweet-dreamer-maeri"
+   },
+   {
+    "name": "Arboreal Glaes",
+    "id": "8653",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640112/bravefrontier/omniunits/thumbnails/8653.png",
+    "slug": "arboreal-glaes"
+   }
+  ],
   "releaseDate": "December 30, 2020",
   "elementalSynergyName": "Quagmire",
   "elementalSynergyDesc": "Purges Barrier and Shield effects",
@@ -395,17 +523,23 @@
   "keywords": [
    "OD gauge",
    "100% DoT reduction"
-  ],
-  "firstUnitId": "8651",
-  "secondUnitId": "8653"
+  ]
  },
  {
-  "firstUnitName": "Boorish Beauty Inoko",
-  "firstUnitSlug": "boorish-beauty-inoko",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8530",
-  "secondUnitName": "Lightspur Bruiser Kelsa",
-  "secondUnitSlug": "lightspur-bruiser-kelsa",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8621",
+  "units": [
+   {
+    "name": "Boorish Beauty Inoko",
+    "id": "8530",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8530.png",
+    "slug": "boorish-beauty-inoko"
+   },
+   {
+    "name": "Lightspur Bruiser Kelsa",
+    "id": "8621",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8621.png",
+    "slug": "lightspur-bruiser-kelsa"
+   }
+  ],
   "releaseDate": "December 16, 2020",
   "elementalSynergyName": "Nova",
   "elementalSynergyDesc": "Chance to purge and negate Lock effects",
@@ -414,17 +548,23 @@
   "dbbDesc": "40 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, max HP, spark damage, critical damage, Atk relative to Def, spark critical, fully restores HP, 100% evasion, damage taken boosts BB gauge",
   "keywords": [
    "100% evasion"
-  ],
-  "firstUnitId": "8530",
-  "secondUnitId": "8621"
+  ]
  },
  {
-  "firstUnitName": "Explosive Artisan Carlos",
-  "firstUnitSlug": "explosive-artisan-carlos",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8642",
-  "secondUnitName": "Fatal Ruffles Vanessa",
-  "secondUnitSlug": "fatal-ruffles-vanessa",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8650",
+  "units": [
+   {
+    "name": "Explosive Artisan Carlos",
+    "id": "8642",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8642.png",
+    "slug": "explosive-artisan-carlos"
+   },
+   {
+    "name": "Fatal Ruffles Vanessa",
+    "id": "8650",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640115/bravefrontier/omniunits/thumbnails/8650.png",
+    "slug": "fatal-ruffles-vanessa"
+   }
+  ],
   "releaseDate": "December 9, 2020",
   "elementalSynergyName": "Twilight",
   "elementalSynergyDesc": "Boosts max HP relative to Rec and raises max HP limit",
@@ -433,17 +573,23 @@
   "dbbDesc": "44 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, max HP, critical damage, BB gauge, OD gauge at turn's end, adds Atk, Def reduction to attack",
   "keywords": [
    "OD gauge"
-  ],
-  "firstUnitId": "8642",
-  "secondUnitId": "8650"
+  ]
  },
  {
-  "firstUnitName": "Silent Strength Gilbert",
-  "firstUnitSlug": "silent-strength-gilbert",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8641",
-  "secondUnitName": "Fatal Ruffles Vanessa",
-  "secondUnitSlug": "fatal-ruffles-vanessa",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8650",
+  "units": [
+   {
+    "name": "Silent Strength Gilbert",
+    "id": "8641",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8641.png",
+    "slug": "silent-strength-gilbert"
+   },
+   {
+    "name": "Fatal Ruffles Vanessa",
+    "id": "8650",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640115/bravefrontier/omniunits/thumbnails/8650.png",
+    "slug": "fatal-ruffles-vanessa"
+   }
+  ],
   "releaseDate": "December 9, 2020",
   "elementalSynergyName": "Cyclone",
   "elementalSynergyDesc": "Chance to negate KO resistance effects on all foes",
@@ -452,17 +598,23 @@
   "dbbDesc": "44 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, max HP, critical damage, Thunder, Dark elemental damage, OD gauge at turn's end, 100% damage reduction, damage taken boosts BB gauge",
   "keywords": [
    "OD gauge"
-  ],
-  "firstUnitId": "8641",
-  "secondUnitId": "8650"
+  ]
  },
  {
-  "firstUnitName": "War Declaration Teresa",
-  "firstUnitSlug": "war-declaration-teresa",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8637",
-  "secondUnitName": "Fatal Ruffles Vanessa",
-  "secondUnitSlug": "fatal-ruffles-vanessa",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8650",
+  "units": [
+   {
+    "name": "War Declaration Teresa",
+    "id": "8637",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8637.png",
+    "slug": "war-declaration-teresa"
+   },
+   {
+    "name": "Fatal Ruffles Vanessa",
+    "id": "8650",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640115/bravefrontier/omniunits/thumbnails/8650.png",
+    "slug": "fatal-ruffles-vanessa"
+   }
+  ],
   "releaseDate": "December 9, 2020",
   "elementalSynergyName": "Obsidian",
   "elementalSynergyDesc": "Refills consumable items by certain amount (limited activation per battle)",
@@ -471,34 +623,46 @@
   "dbbDesc": "44 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, max HP, critical damage, Earth, Dark elemental damage, fully restores HP, 100% evasion",
   "keywords": [
    "100% evasion"
-  ],
-  "firstUnitId": "8637",
-  "secondUnitId": "8650"
+  ]
  },
  {
-  "firstUnitName": "Liquid Barrage Sheena",
-  "firstUnitSlug": "liquid-barrage-sheena",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8647",
-  "secondUnitName": "Fatal Ruffles Vanessa",
-  "secondUnitSlug": "fatal-ruffles-vanessa",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8650",
+  "units": [
+   {
+    "name": "Liquid Barrage Sheena",
+    "id": "8647",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640113/bravefrontier/omniunits/thumbnails/8647.png",
+    "slug": "liquid-barrage-sheena"
+   },
+   {
+    "name": "Fatal Ruffles Vanessa",
+    "id": "8650",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640115/bravefrontier/omniunits/thumbnails/8650.png",
+    "slug": "fatal-ruffles-vanessa"
+   }
+  ],
   "releaseDate": "December 9, 2020",
   "elementalSynergyName": "Miasma",
   "elementalSynergyDesc": "Reduces healing effectiveness of single foe",
   "dbbId": 116,
   "dbbName": "World-Ringing Bullet",
   "dbbDesc": "46 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, max HP, spark damage, critical damage, BB gauge, spark critical, spark vulnerability infliction",
-  "keywords": [],
-  "firstUnitId": "8647",
-  "secondUnitId": "8650"
+  "keywords": []
  },
  {
-  "firstUnitName": "Burning Grudge Mariano",
-  "firstUnitSlug": "burning-grudge-mariano",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8639",
-  "secondUnitName": "Fatal Ruffles Vanessa",
-  "secondUnitSlug": "fatal-ruffles-vanessa",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8650",
+  "units": [
+   {
+    "name": "Burning Grudge Mariano",
+    "id": "8639",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8639.png",
+    "slug": "burning-grudge-mariano"
+   },
+   {
+    "name": "Fatal Ruffles Vanessa",
+    "id": "8650",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640115/bravefrontier/omniunits/thumbnails/8650.png",
+    "slug": "fatal-ruffles-vanessa"
+   }
+  ],
   "releaseDate": "December 9, 2020",
   "elementalSynergyName": "Pyre",
   "elementalSynergyDesc": "Chance to purge and negate Doom and Ennui effects",
@@ -507,34 +671,46 @@
   "dbbDesc": "48 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, max HP, spark damage, critical damage, raises normal hit amount",
   "keywords": [
    "raises normal hit amount"
-  ],
-  "firstUnitId": "8639",
-  "secondUnitId": "8650"
+  ]
  },
  {
-  "firstUnitName": "Snowtop Alpinist Alphie",
-  "firstUnitSlug": "snowtop-alpinist-alphie",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8600",
-  "secondUnitName": "Feral Commissar Kassia",
-  "secondUnitSlug": "feral-commissar-kassia",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8559",
+  "units": [
+   {
+    "name": "Snowtop Alpinist Alphie",
+    "id": "8600",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8600.png",
+    "slug": "snowtop-alpinist-alphie"
+   },
+   {
+    "name": "Feral Commissar Kassia",
+    "id": "8559",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8559.png",
+    "slug": "feral-commissar-kassia"
+   }
+  ],
   "releaseDate": "November 25, 2020",
   "elementalSynergyName": "Eruption",
   "elementalSynergyDesc": "Chance to negate Purge effects",
   "dbbId": 114,
   "dbbName": "Skyfall Avalanche",
   "dbbDesc": "40 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, spark damage, critical damage, Def relative to Atk, 100% damage reduction, damage taken boosts BB gauge and restores HP, damage taken inflicts Atk, Def reduction",
-  "keywords": [],
-  "firstUnitId": "8600",
-  "secondUnitId": "8559"
+  "keywords": []
  },
  {
-  "firstUnitName": "Kranus, the Argent",
-  "firstUnitSlug": "kranus-the-argent",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8646",
-  "secondUnitName": "Berserk Ezra",
-  "secondUnitSlug": "berserk-ezra",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8649",
+  "units": [
+   {
+    "name": "Kranus, the Argent",
+    "id": "8646",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8646.png",
+    "slug": "kranus-the-argent"
+   },
+   {
+    "name": "Berserk Ezra",
+    "id": "8649",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8649.png",
+    "slug": "berserk-ezra"
+   }
+  ],
   "releaseDate": "November 18, 2020",
   "elementalSynergyName": "Twilight",
   "elementalSynergyDesc": "Boosts max HP relative to Rec and raises max HP limit",
@@ -543,17 +719,23 @@
   "dbbDesc": "70 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, spark damage, spark damage restores HP, fills OD gauge at turn's end, spark vulnerability infliction",
   "keywords": [
    "OD gauge"
-  ],
-  "firstUnitId": "8646",
-  "secondUnitId": "8649"
+  ]
  },
  {
-  "firstUnitName": "Sun-kissed Tilith",
-  "firstUnitSlug": "sun-kissed-tilith",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8648",
-  "secondUnitName": "Berserk Ezra",
-  "secondUnitSlug": "berserk-ezra",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8649",
+  "units": [
+   {
+    "name": "Sun-kissed Tilith",
+    "id": "8648",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640114/bravefrontier/omniunits/thumbnails/8648.png",
+    "slug": "sun-kissed-tilith"
+   },
+   {
+    "name": "Berserk Ezra",
+    "id": "8649",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8649.png",
+    "slug": "berserk-ezra"
+   }
+  ],
   "releaseDate": "November 18, 2020",
   "elementalSynergyName": "Obsidian",
   "elementalSynergyDesc": "Refills consumable items by certain amount (limited activation per battle)",
@@ -563,17 +745,23 @@
   "keywords": [
    "OD gauge",
    "raises allies from KO"
-  ],
-  "firstUnitId": "8648",
-  "secondUnitId": "8649"
+  ]
  },
  {
-  "firstUnitName": "Sun-kissed Tilith",
-  "firstUnitSlug": "sun-kissed-tilith",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8648",
-  "secondUnitName": "Kranus, the Argent",
-  "secondUnitSlug": "kranus-the-argent",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8646",
+  "units": [
+   {
+    "name": "Sun-kissed Tilith",
+    "id": "8648",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640114/bravefrontier/omniunits/thumbnails/8648.png",
+    "slug": "sun-kissed-tilith"
+   },
+   {
+    "name": "Kranus, the Argent",
+    "id": "8646",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8646.png",
+    "slug": "kranus-the-argent"
+   }
+  ],
   "releaseDate": "November 18, 2020",
   "elementalSynergyName": "Prism",
   "elementalSynergyDesc": "Deals piercing max HP% damage to single foe and boosts offense but self-KO until battle end (available when foe HP is below certain amount)",
@@ -583,17 +771,23 @@
   "keywords": [
    "OD gauge",
    "raises allies from KO"
-  ],
-  "firstUnitId": "8648",
-  "secondUnitId": "8646"
+  ]
  },
  {
-  "firstUnitName": "Kranus, the Argent",
-  "firstUnitSlug": "kranus-the-argent",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8646",
-  "secondUnitName": "Cosmic Shade Kranus",
-  "secondUnitSlug": "cosmic-shade-kranus",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8478",
+  "units": [
+   {
+    "name": "Kranus, the Argent",
+    "id": "8646",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8646.png",
+    "slug": "kranus-the-argent"
+   },
+   {
+    "name": "Cosmic Shade Kranus",
+    "id": "8478",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8478.png",
+    "slug": "cosmic-shade-kranus"
+   }
+  ],
   "releaseDate": "November 18, 2020",
   "elementalSynergyName": "Twilight",
   "elementalSynergyDesc": "Boosts max HP relative to Rec and raises max HP limit",
@@ -602,51 +796,69 @@
   "dbbDesc": "46 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, spark damage, 100% Light, Dark damage reduction, spark damage restores HP, 100% raises allies from KO",
   "keywords": [
    "raises allies from KO"
-  ],
-  "firstUnitId": "8646",
-  "secondUnitId": "8478"
+  ]
  },
  {
-  "firstUnitName": "Liquid Barrage Sheena",
-  "firstUnitSlug": "liquid-barrage-sheena",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8647",
-  "secondUnitName": "Explosive Artisan Carlos",
-  "secondUnitSlug": "explosive-artisan-carlos",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8642",
+  "units": [
+   {
+    "name": "Liquid Barrage Sheena",
+    "id": "8647",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640113/bravefrontier/omniunits/thumbnails/8647.png",
+    "slug": "liquid-barrage-sheena"
+   },
+   {
+    "name": "Explosive Artisan Carlos",
+    "id": "8642",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8642.png",
+    "slug": "explosive-artisan-carlos"
+   }
+  ],
   "releaseDate": "November 11, 2020",
   "elementalSynergyName": "Mist",
   "elementalSynergyDesc": "Chance to purge and negate Amnesia effect",
   "dbbId": 109,
   "dbbName": "Sparkling Detonator",
   "dbbDesc": "46 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, max HP, spark damage, critical damage, BB gauge, spark critical, spark vulnerability infliction, adds Atk, Def reduction to attack",
-  "keywords": [],
-  "firstUnitId": "8647",
-  "secondUnitId": "8642"
+  "keywords": []
  },
  {
-  "firstUnitName": "Liquid Barrage Sheena",
-  "firstUnitSlug": "liquid-barrage-sheena",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8647",
-  "secondUnitName": "Silent Strength Gilbert",
-  "secondUnitSlug": "silent-strength-gilbert",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8641",
+  "units": [
+   {
+    "name": "Liquid Barrage Sheena",
+    "id": "8647",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640113/bravefrontier/omniunits/thumbnails/8647.png",
+    "slug": "liquid-barrage-sheena"
+   },
+   {
+    "name": "Silent Strength Gilbert",
+    "id": "8641",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8641.png",
+    "slug": "silent-strength-gilbert"
+   }
+  ],
   "releaseDate": "November 11, 2020",
   "elementalSynergyName": "Tempest",
   "elementalSynergyDesc": "Chance to purge and negate Turn Skip",
   "dbbId": 108,
   "dbbName": "Righteous Might",
   "dbbDesc": "46 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, spark damage, Earth, Thunder elemental damage, BB gauge, damage taken boosts BB gauge, 100% damage reduction, spark critical, spark vulnerability infliction",
-  "keywords": [],
-  "firstUnitId": "8647",
-  "secondUnitId": "8641"
+  "keywords": []
  },
  {
-  "firstUnitName": "Liquid Barrage Sheena",
-  "firstUnitSlug": "liquid-barrage-sheena",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8647",
-  "secondUnitName": "War Declaration Teresa",
-  "secondUnitSlug": "war-declaration-teresa",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8637",
+  "units": [
+   {
+    "name": "Liquid Barrage Sheena",
+    "id": "8647",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640113/bravefrontier/omniunits/thumbnails/8647.png",
+    "slug": "liquid-barrage-sheena"
+   },
+   {
+    "name": "War Declaration Teresa",
+    "id": "8637",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8637.png",
+    "slug": "war-declaration-teresa"
+   }
+  ],
   "releaseDate": "November 11, 2020",
   "elementalSynergyName": "Quagmire",
   "elementalSynergyDesc": "Purges Barrier and Shield effects",
@@ -655,17 +867,23 @@
   "dbbDesc": "46 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, spark damage, critical damage, Water, Earth elemental damage, BB gauge, spark critical, spark vulnerability infliction, 100% evasion",
   "keywords": [
    "100% evasion"
-  ],
-  "firstUnitId": "8647",
-  "secondUnitId": "8637"
+  ]
  },
  {
-  "firstUnitName": "Burning Grudge Mariano",
-  "firstUnitSlug": "burning-grudge-mariano",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8639",
-  "secondUnitName": "Liquid Barrage Sheena",
-  "secondUnitSlug": "liquid-barrage-sheena",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8647",
+  "units": [
+   {
+    "name": "Burning Grudge Mariano",
+    "id": "8639",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8639.png",
+    "slug": "burning-grudge-mariano"
+   },
+   {
+    "name": "Liquid Barrage Sheena",
+    "id": "8647",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640113/bravefrontier/omniunits/thumbnails/8647.png",
+    "slug": "liquid-barrage-sheena"
+   }
+  ],
   "releaseDate": "November 11, 2020",
   "elementalSynergyName": "Steam",
   "elementalSynergyDesc": "Boosts DBB Synergy Shards (available when cooldown count is 0)",
@@ -674,17 +892,23 @@
   "dbbDesc": "48 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, max HP, spark damage, spark critical, BB gauge, raises normal hit amount, spark vulnerability infliction",
   "keywords": [
    "raises normal hit amount"
-  ],
-  "firstUnitId": "8639",
-  "secondUnitId": "8647"
+  ]
  },
  {
-  "firstUnitName": "Fractured Mind Ydra",
-  "firstUnitSlug": "fractured-mind-ydra",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8644",
-  "secondUnitName": "Dark Ego Saya",
-  "secondUnitSlug": "dark-ego-saya",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8645",
+  "units": [
+   {
+    "name": "Fractured Mind Ydra",
+    "id": "8644",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8644.png",
+    "slug": "fractured-mind-ydra"
+   },
+   {
+    "name": "Dark Ego Saya",
+    "id": "8645",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8645.png",
+    "slug": "dark-ego-saya"
+   }
+  ],
   "releaseDate": "October 28, 2020",
   "elementalSynergyName": "Cyclone",
   "elementalSynergyDesc": "Chance to negate KO resistance effects on all foes",
@@ -693,17 +917,23 @@
   "dbbDesc": "52 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, critical damage, spark damage, Thunder, Dark elemental damage, BB gauge, fills OD gauge at turn's end, inflicts Atk, Def reduction, massive DoT on all foes",
   "keywords": [
    "OD gauge"
-  ],
-  "firstUnitId": "8644",
-  "secondUnitId": "8645"
+  ]
  },
  {
-  "firstUnitName": "Ascha, the Devourer",
-  "firstUnitSlug": "ascha-the-devourer",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8643",
-  "secondUnitName": "Hypaea, the Starfallen",
-  "secondUnitSlug": "hypaea-the-starfallen",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8619",
+  "units": [
+   {
+    "name": "Ascha, the Devourer",
+    "id": "8643",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8643.png",
+    "slug": "ascha-the-devourer"
+   },
+   {
+    "name": "Hypaea, the Starfallen",
+    "id": "8619",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8619.png",
+    "slug": "hypaea-the-starfallen"
+   }
+  ],
   "releaseDate": "October 21, 2020",
   "elementalSynergyName": "Magma",
   "elementalSynergyDesc": "Chance to negate BB and OD Drain effects",
@@ -714,17 +944,23 @@
    "OD gauge",
    "raises allies from KO",
    "KO resistance"
-  ],
-  "firstUnitId": "8643",
-  "secondUnitId": "8619"
+  ]
  },
  {
-  "firstUnitName": "Ascha, the Devourer",
-  "firstUnitSlug": "ascha-the-devourer",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8643",
-  "secondUnitName": "Inara, the Deluge",
-  "secondUnitSlug": "inara-the-deluge",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8640",
+  "units": [
+   {
+    "name": "Ascha, the Devourer",
+    "id": "8643",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8643.png",
+    "slug": "ascha-the-devourer"
+   },
+   {
+    "name": "Inara, the Deluge",
+    "id": "8640",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8640.png",
+    "slug": "inara-the-deluge"
+   }
+  ],
   "releaseDate": "October 21, 2020",
   "elementalSynergyName": "Steam",
   "elementalSynergyDesc": "Boosts DBB Synergy Shards (available when cooldown count is 0)",
@@ -733,17 +969,23 @@
   "dbbDesc": "64 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, Fire, Water elemental damage, BB gauge, 100% damage reduction, damage taken restores HP, 80% KO resistance",
   "keywords": [
    "KO resistance"
-  ],
-  "firstUnitId": "8643",
-  "secondUnitId": "8640"
+  ]
  },
  {
-  "firstUnitName": "Sagacious Mantra Ukie",
-  "firstUnitSlug": "sagacious-mantra-ukie",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8604",
-  "secondUnitName": "Blink Builder Peter",
-  "secondUnitSlug": "blink-builder-peter",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8570",
+  "units": [
+   {
+    "name": "Sagacious Mantra Ukie",
+    "id": "8604",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8604.png",
+    "slug": "sagacious-mantra-ukie"
+   },
+   {
+    "name": "Blink Builder Peter",
+    "id": "8570",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8570.png",
+    "slug": "blink-builder-peter"
+   }
+  ],
   "releaseDate": "October 14, 2020",
   "elementalSynergyName": "Radiance",
   "elementalSynergyDesc": "Chance to purge and negate HP and Heal reduction effects",
@@ -752,17 +994,23 @@
   "dbbDesc": "56 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, Spark damage, critical damage, BB gauge, spark critical, raises normal hit amount, spark damage boosts BB gauge",
   "keywords": [
    "raises normal hit amount"
-  ],
-  "firstUnitId": "8604",
-  "secondUnitId": "8570"
+  ]
  },
  {
-  "firstUnitName": "Silent Strength Gilbert",
-  "firstUnitSlug": "silent-strength-gilbert",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8641",
-  "secondUnitName": "Explosive Artisan Carlos",
-  "secondUnitSlug": "explosive-artisan-carlos",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8642",
+  "units": [
+   {
+    "name": "Silent Strength Gilbert",
+    "id": "8641",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8641.png",
+    "slug": "silent-strength-gilbert"
+   },
+   {
+    "name": "Explosive Artisan Carlos",
+    "id": "8642",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8642.png",
+    "slug": "explosive-artisan-carlos"
+   }
+  ],
   "releaseDate": "October 14, 2020",
   "elementalSynergyName": "Radiance",
   "elementalSynergyDesc": "Chance to purge and negate HP and Heal reduction effects",
@@ -771,17 +1019,23 @@
   "dbbDesc": "42 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, max HP, critical damage, Thunder, Light elemental damage, 100% damage reduction, damage taken boosts BB gauge, BB gauge, fills OD gauge at turn's end",
   "keywords": [
    "OD gauge"
-  ],
-  "firstUnitId": "8641",
-  "secondUnitId": "8642"
+  ]
  },
  {
-  "firstUnitName": "War Declaration Teresa",
-  "firstUnitSlug": "war-declaration-teresa",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8637",
-  "secondUnitName": "Explosive Artisan Carlos",
-  "secondUnitSlug": "explosive-artisan-carlos",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8642",
+  "units": [
+   {
+    "name": "War Declaration Teresa",
+    "id": "8637",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8637.png",
+    "slug": "war-declaration-teresa"
+   },
+   {
+    "name": "Explosive Artisan Carlos",
+    "id": "8642",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8642.png",
+    "slug": "explosive-artisan-carlos"
+   }
+  ],
   "releaseDate": "October 14, 2020",
   "elementalSynergyName": "Prism",
   "elementalSynergyDesc": "Deals piercing max HP% damage to single foe and boosts offense but self-KO until battle end (available when foe HP is below certain amount)",
@@ -791,17 +1045,23 @@
   "keywords": [
    "100% evasion",
    "OD gauge"
-  ],
-  "firstUnitId": "8637",
-  "secondUnitId": "8642"
+  ]
  },
  {
-  "firstUnitName": "Burning Grudge Mariano",
-  "firstUnitSlug": "burning-grudge-mariano",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8639",
-  "secondUnitName": "Explosive Artisan Carlos",
-  "secondUnitSlug": "explosive-artisan-carlos",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8642",
+  "units": [
+   {
+    "name": "Burning Grudge Mariano",
+    "id": "8639",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8639.png",
+    "slug": "burning-grudge-mariano"
+   },
+   {
+    "name": "Explosive Artisan Carlos",
+    "id": "8642",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8642.png",
+    "slug": "explosive-artisan-carlos"
+   }
+  ],
   "releaseDate": "October 14, 2020",
   "elementalSynergyName": "Nova",
   "elementalSynergyDesc": "Chance to purge and negate Lock effects",
@@ -811,17 +1071,23 @@
   "keywords": [
    "OD gauge",
    "raises normal hit amount"
-  ],
-  "firstUnitId": "8639",
-  "secondUnitId": "8642"
+  ]
  },
  {
-  "firstUnitName": "Burning Grudge Mariano",
-  "firstUnitSlug": "burning-grudge-mariano",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8639",
-  "secondUnitName": "Silent Strength Gilbert",
-  "secondUnitSlug": "silent-strength-gilbert",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8641",
+  "units": [
+   {
+    "name": "Burning Grudge Mariano",
+    "id": "8639",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8639.png",
+    "slug": "burning-grudge-mariano"
+   },
+   {
+    "name": "Silent Strength Gilbert",
+    "id": "8641",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8641.png",
+    "slug": "silent-strength-gilbert"
+   }
+  ],
   "releaseDate": "September 30, 2020",
   "elementalSynergyName": "Blast",
   "elementalSynergyDesc": "Deals piercing max HP% damage to single foe, raises allies from KO, grants Invincibility but inflicts KO on all allies on effect end (available when foe HP is below certain amount)",
@@ -830,17 +1096,23 @@
   "dbbDesc": "48 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, max HP, spark damage, Fire, Thunder elemental damage, 100% damage reduction, damage taken boosts BB gauge, raises normal hit amount, inflicts Atk, Def reduction",
   "keywords": [
    "raises normal hit amount"
-  ],
-  "firstUnitId": "8639",
-  "secondUnitId": "8641"
+  ]
  },
  {
-  "firstUnitName": "War Declaration Teresa",
-  "firstUnitSlug": "war-declaration-teresa",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8637",
-  "secondUnitName": "Silent Strength Gilbert",
-  "secondUnitSlug": "silent-strength-gilbert",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8641",
+  "units": [
+   {
+    "name": "War Declaration Teresa",
+    "id": "8637",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8637.png",
+    "slug": "war-declaration-teresa"
+   },
+   {
+    "name": "Silent Strength Gilbert",
+    "id": "8641",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8641.png",
+    "slug": "silent-strength-gilbert"
+   }
+  ],
   "releaseDate": "September 30, 2020",
   "elementalSynergyName": "Eruption",
   "elementalSynergyDesc": "Chance to negate Purge effects",
@@ -849,17 +1121,23 @@
   "dbbDesc": "42 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, critical damage, Earth, Thunder elemental damage, 100% damage reduction, damage taken boosts BB gauge, 100% evasion, fully restores HP",
   "keywords": [
    "100% evasion"
-  ],
-  "firstUnitId": "8637",
-  "secondUnitId": "8641"
+  ]
  },
  {
-  "firstUnitName": "Burning Grudge Mariano",
-  "firstUnitSlug": "burning-grudge-mariano",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8639",
-  "secondUnitName": "War Declaration Teresa",
-  "secondUnitSlug": "war-declaration-teresa",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8637",
+  "units": [
+   {
+    "name": "Burning Grudge Mariano",
+    "id": "8639",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8639.png",
+    "slug": "burning-grudge-mariano"
+   },
+   {
+    "name": "War Declaration Teresa",
+    "id": "8637",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8637.png",
+    "slug": "war-declaration-teresa"
+   }
+  ],
   "releaseDate": "September 16, 2020",
   "elementalSynergyName": "Magma",
   "elementalSynergyDesc": "Chance to negate BB and OD Drain effects",
@@ -869,17 +1147,23 @@
   "keywords": [
    "100% evasion",
    "raises normal hit amount"
-  ],
-  "firstUnitId": "8639",
-  "secondUnitId": "8637"
+  ]
  },
  {
-  "firstUnitName": "Wave Rider Kahiki",
-  "firstUnitSlug": "wave-rider-kahiki",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8592",
-  "secondUnitName": "Highland Belter Ulagan",
-  "secondUnitSlug": "highland-belter-ulagan",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8551",
+  "units": [
+   {
+    "name": "Wave Rider Kahiki",
+    "id": "8592",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8592.png",
+    "slug": "wave-rider-kahiki"
+   },
+   {
+    "name": "Highland Belter Ulagan",
+    "id": "8551",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8551.png",
+    "slug": "highland-belter-ulagan"
+   }
+  ],
   "releaseDate": "September 16, 2020",
   "elementalSynergyName": "Quagmire",
   "elementalSynergyDesc": "Purges Barrier and Shield effects",
@@ -889,17 +1173,23 @@
   "keywords": [
    "100% evasion",
    "100% DoT reduction"
-  ],
-  "firstUnitId": "8592",
-  "secondUnitId": "8551"
+  ]
  },
  {
-  "firstUnitName": "Aesys, Great of Magic",
-  "firstUnitSlug": "aesys-great-of-magic",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8549",
-  "secondUnitName": "Harakhte, Sky Prince",
-  "secondUnitSlug": "harakhte-sky-prince",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8638",
+  "units": [
+   {
+    "name": "Aesys, Great of Magic",
+    "id": "8549",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8549.png",
+    "slug": "aesys-great-of-magic"
+   },
+   {
+    "name": "Harakhte, Sky Prince",
+    "id": "8638",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8638.png",
+    "slug": "harakhte-sky-prince"
+   }
+  ],
   "releaseDate": "September 9, 2020",
   "elementalSynergyName": "Nova",
   "elementalSynergyDesc": "Chance to purge and negate Lock effects",
@@ -910,17 +1200,23 @@
    "100% evasion",
    "raises allies from KO",
    "KO resistance"
-  ],
-  "firstUnitId": "8549",
-  "secondUnitId": "8638"
+  ]
  },
  {
-  "firstUnitName": "Neon Winder Rhyne",
-  "firstUnitSlug": "neon-winder-rhyne",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8584",
-  "secondUnitName": "Black Magistra Noxa",
-  "secondUnitSlug": "black-magistra-noxa",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8574",
+  "units": [
+   {
+    "name": "Neon Winder Rhyne",
+    "id": "8584",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8584.png",
+    "slug": "neon-winder-rhyne"
+   },
+   {
+    "name": "Black Magistra Noxa",
+    "id": "8574",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8574.png",
+    "slug": "black-magistra-noxa"
+   }
+  ],
   "releaseDate": "August 26, 2020",
   "elementalSynergyName": "Pyre",
   "elementalSynergyDesc": "Chance to purge and negate Doom and Ennui effects",
@@ -930,17 +1226,23 @@
   "keywords": [
    "raises normal hit amount",
    "perform 1 extra action within the same turn"
-  ],
-  "firstUnitId": "8584",
-  "secondUnitId": "8574"
+  ]
  },
  {
-  "firstUnitName": "White Wulf Faelan",
-  "firstUnitSlug": "white-wulf-faelan",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8250",
-  "secondUnitName": "Owlrider Jute Eerikki",
-  "secondUnitSlug": "owlrider-jute-eerikki",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8264",
+  "units": [
+   {
+    "name": "White Wulf Faelan",
+    "id": "8250",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8250.png",
+    "slug": "white-wulf-faelan"
+   },
+   {
+    "name": "Owlrider Jute Eerikki",
+    "id": "8264",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8264.png",
+    "slug": "owlrider-jute-eerikki"
+   }
+  ],
   "releaseDate": "August 26, 2020",
   "elementalSynergyName": "Eruption",
   "elementalSynergyDesc": "Chance to negate Purge effects",
@@ -950,17 +1252,23 @@
   "keywords": [
    "raises normal hit amount",
    "adds status ailment infliction to attack"
-  ],
-  "firstUnitId": "8250",
-  "secondUnitId": "8264"
+  ]
  },
  {
-  "firstUnitName": "Fate-Holder al-Akqat",
-  "firstUnitSlug": "fate-holder-al-akqat",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8352",
-  "secondUnitName": "White Wulf Faelan",
-  "secondUnitSlug": "white-wulf-faelan",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8250",
+  "units": [
+   {
+    "name": "Fate-Holder al-Akqat",
+    "id": "8352",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8352.png",
+    "slug": "fate-holder-al-akqat"
+   },
+   {
+    "name": "White Wulf Faelan",
+    "id": "8250",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8250.png",
+    "slug": "white-wulf-faelan"
+   }
+  ],
   "releaseDate": "August 26, 2020",
   "elementalSynergyName": "Magma",
   "elementalSynergyDesc": "Chance to negate BB and OD Drain effects",
@@ -970,17 +1278,23 @@
   "keywords": [
    "OD gauge",
    "adds status ailment infliction to attack"
-  ],
-  "firstUnitId": "8352",
-  "secondUnitId": "8250"
+  ]
  },
  {
-  "firstUnitName": "Kyria, the Dawnrider",
-  "firstUnitSlug": "kyria-the-dawnrider",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8628",
-  "secondUnitName": "Gwyll, Waning Eclipse",
-  "secondUnitSlug": "gwyll-waning-eclipse",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8636",
+  "units": [
+   {
+    "name": "Kyria, the Dawnrider",
+    "id": "8628",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8628.png",
+    "slug": "kyria-the-dawnrider"
+   },
+   {
+    "name": "Gwyll, Waning Eclipse",
+    "id": "8636",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8636.png",
+    "slug": "gwyll-waning-eclipse"
+   }
+  ],
   "releaseDate": "August 19, 2020",
   "elementalSynergyName": "Twilight",
   "elementalSynergyDesc": "Boosts max HP relative to Rec and raises max HP limit",
@@ -989,17 +1303,23 @@
   "dbbDesc": "68 combo grand dual attack on all foes (damage relative to remaining HP), boosts all elemental damage, critical damage, max HP, 100% damage reduction, Atk, Def, Rec relative to max HP, spark damage boosts BB gauge, damage taken boosts BB gauge and restores HP, activates BB/SBB/UBB twice",
   "keywords": [
    "activates BB/SBB/UBB twice"
-  ],
-  "firstUnitId": "8628",
-  "secondUnitId": "8636"
+  ]
  },
  {
-  "firstUnitName": "Grimgeist Leopold",
-  "firstUnitSlug": "grimgeist-leopold",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8634",
-  "secondUnitName": "Faetouched Sidonie",
-  "secondUnitSlug": "faetouched-sidonie",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8635",
+  "units": [
+   {
+    "name": "Grimgeist Leopold",
+    "id": "8634",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640113/bravefrontier/omniunits/thumbnails/8634.png",
+    "slug": "grimgeist-leopold"
+   },
+   {
+    "name": "Faetouched Sidonie",
+    "id": "8635",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8635.png",
+    "slug": "faetouched-sidonie"
+   }
+  ],
   "releaseDate": "August 12, 2020",
   "elementalSynergyName": "Nova",
   "elementalSynergyDesc": "Chance to purge and negate Lock effects",
@@ -1008,17 +1328,23 @@
   "dbbDesc": "44 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, BC, HC, item drop rate, critical damage, own Spark damage, Light, Fire elemental damage, OD gauge, spark damage boosts BB gauge, fully restores HP",
   "keywords": [
    "OD gauge"
-  ],
-  "firstUnitId": "8634",
-  "secondUnitId": "8635"
+  ]
  },
  {
-  "firstUnitName": "Serpent Legacy Hilda",
-  "firstUnitSlug": "serpent-legacy-hilda",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8629",
-  "secondUnitName": "Icy Steel René",
-  "secondUnitSlug": "icy-steel-ren",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8630",
+  "units": [
+   {
+    "name": "Serpent Legacy Hilda",
+    "id": "8629",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8629.png",
+    "slug": "serpent-legacy-hilda"
+   },
+   {
+    "name": "Icy Steel René",
+    "id": "8630",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8630.png",
+    "slug": "icy-steel-ren"
+   }
+  ],
   "releaseDate": "July 29, 2020",
   "elementalSynergyName": "Tsunami",
   "elementalSynergyDesc": "Deals piercing max HP% DoT to single Fire foe",
@@ -1027,17 +1353,23 @@
   "dbbDesc": "40 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, spark damage, critical damage, BB gauge, spark vulnerability infliction, 100% evasion, inflicts Atk, Def reduction, fully restores HP",
   "keywords": [
    "100% evasion"
-  ],
-  "firstUnitId": "8629",
-  "secondUnitId": "8630"
+  ]
  },
  {
-  "firstUnitName": "Fate-Eater Ilm",
-  "firstUnitSlug": "fate-eater-ilm",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8260",
-  "secondUnitName": "White Wulf Faelan",
-  "secondUnitSlug": "white-wulf-faelan",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8250",
+  "units": [
+   {
+    "name": "Fate-Eater Ilm",
+    "id": "8260",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8260.png",
+    "slug": "fate-eater-ilm"
+   },
+   {
+    "name": "White Wulf Faelan",
+    "id": "8250",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8250.png",
+    "slug": "white-wulf-faelan"
+   }
+  ],
   "releaseDate": "July 29, 2020",
   "elementalSynergyName": "Quagmire",
   "elementalSynergyDesc": "Purges Barrier and Shield effects",
@@ -1046,17 +1378,23 @@
   "dbbDesc": "62 combo grand dual attack on all foes (damage relative to remaining HP), boosts BB Atk, max HP, Atk, Def relative to max HP, damage against status afflicted foes, adds status ailment infliction to attack, fully restores HP, activates water barrier, 100% damage reduction",
   "keywords": [
    "adds status ailment infliction to attack"
-  ],
-  "firstUnitId": "8260",
-  "secondUnitId": "8250"
+  ]
  },
  {
-  "firstUnitName": "Gortius, Elysia's Crown",
-  "firstUnitSlug": "gortius-elysias-crown",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8627",
-  "secondUnitName": "Miriam, Elysia's Steel",
-  "secondUnitSlug": "miriam-elysias-steel",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8594",
+  "units": [
+   {
+    "name": "Gortius, Elysia's Crown",
+    "id": "8627",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8627.png",
+    "slug": "gortius-elysias-crown"
+   },
+   {
+    "name": "Miriam, Elysia's Steel",
+    "id": "8594",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8594.png",
+    "slug": "miriam-elysias-steel"
+   }
+  ],
   "releaseDate": "July 8, 2020",
   "elementalSynergyName": "Blast",
   "elementalSynergyDesc": "Deals piercing max HP% damage to single foe, raises allies from KO, grants Invincibility but inflicts KO on all allies on effect end (available when foe HP is below certain amount)",
@@ -1065,51 +1403,69 @@
   "dbbDesc": "66 combo grand dual attack on all foes (damage relative to remaining HP), boosts Fire, Thunder elemental damage, spark damage, BB Atk, Atk, Def, Rec relative to max HP, 100% evasion, damage taken boosts BB gauge, activates Fire barrier, 100% damage reduction",
   "keywords": [
    "100% evasion"
-  ],
-  "firstUnitId": "8627",
-  "secondUnitId": "8594"
+  ]
  },
  {
-  "firstUnitName": "Gortius, Elysia's Crown",
-  "firstUnitSlug": "gortius-elysias-crown",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8627",
-  "secondUnitName": "Evie, Twilight Heir",
-  "secondUnitSlug": "evie-twilight-heir",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8598",
+  "units": [
+   {
+    "name": "Gortius, Elysia's Crown",
+    "id": "8627",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8627.png",
+    "slug": "gortius-elysias-crown"
+   },
+   {
+    "name": "Evie, Twilight Heir",
+    "id": "8598",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8598.png",
+    "slug": "evie-twilight-heir"
+   }
+  ],
   "releaseDate": "July 8, 2020",
   "elementalSynergyName": "Pyre",
   "elementalSynergyDesc": "Chance to purge and negate Doom and Ennui effects",
   "dbbId": 85,
   "dbbName": "Helios Ascendant",
   "dbbDesc": "66 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, max HP, critical rate, critical damage, spark damage, Fire, Dark elemental damage, Def relative to Atk, damage taken boosts BB gauge, activates Fire barrier",
-  "keywords": [],
-  "firstUnitId": "8627",
-  "secondUnitId": "8598"
+  "keywords": []
  },
  {
-  "firstUnitName": "Thoth, Scribe of Gods",
-  "firstUnitSlug": "thoth-scribe-of-gods",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8557",
-  "secondUnitName": "Ma'at, Arbiter of Order",
-  "secondUnitSlug": "maat-arbiter-of-order",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8565",
+  "units": [
+   {
+    "name": "Thoth, Scribe of Gods",
+    "id": "8557",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8557.png",
+    "slug": "thoth-scribe-of-gods"
+   },
+   {
+    "name": "Ma'at, Arbiter of Order",
+    "id": "8565",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8565.png",
+    "slug": "maat-arbiter-of-order"
+   }
+  ],
   "releaseDate": "July 1, 2020",
   "elementalSynergyName": "Tempest",
   "elementalSynergyDesc": "Chance to purge and negate Turn Skip",
   "dbbId": 84,
   "dbbName": "Weshem-ib",
   "dbbDesc": "70 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec and critical rate, Water, Thunder elemental damage, spark damage, critical damage, max HP, fills BB gauge, 100% damage reduction",
-  "keywords": [],
-  "firstUnitId": "8557",
-  "secondUnitId": "8565"
+  "keywords": []
  },
  {
-  "firstUnitName": "Immortal Firewing Blaze",
-  "firstUnitSlug": "immortal-firewing-blaze",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8318",
-  "secondUnitName": "Dusk Haunter Kirke",
-  "secondUnitSlug": "dusk-haunter-kirke",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8626",
+  "units": [
+   {
+    "name": "Immortal Firewing Blaze",
+    "id": "8318",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8318.png",
+    "slug": "immortal-firewing-blaze"
+   },
+   {
+    "name": "Dusk Haunter Kirke",
+    "id": "8626",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8626.png",
+    "slug": "dusk-haunter-kirke"
+   }
+  ],
   "releaseDate": "June 24, 2020",
   "elementalSynergyName": "Pyre",
   "elementalSynergyDesc": "Chance to purge and negate Doom and Ennui effects",
@@ -1119,17 +1475,23 @@
   "keywords": [
    "100% DoT reduction",
    "raises normal hit amount"
-  ],
-  "firstUnitId": "8318",
-  "secondUnitId": "8626"
+  ]
  },
  {
-  "firstUnitName": "Scourgemistress Adriesta",
-  "firstUnitSlug": "scourgemistress-adriesta",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8226",
-  "secondUnitName": "Silver Queen Gabriela",
-  "secondUnitSlug": "silver-queen-gabriela",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8234",
+  "units": [
+   {
+    "name": "Scourgemistress Adriesta",
+    "id": "8226",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8226.png",
+    "slug": "scourgemistress-adriesta"
+   },
+   {
+    "name": "Silver Queen Gabriela",
+    "id": "8234",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640112/bravefrontier/omniunits/thumbnails/8234.png",
+    "slug": "silver-queen-gabriela"
+   }
+  ],
   "releaseDate": "June 24, 2020",
   "elementalSynergyName": "Nova",
   "elementalSynergyDesc": "Chance to purge and negate Lock effects",
@@ -1138,17 +1500,23 @@
   "dbbDesc": "66 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, max HP, Atk, Def relative to HP, spark damage fills BB gauge, damage taken boosts BB gauge and restores HP, activates Thunder barrier, 100% damage reduction, 80% KO resistance",
   "keywords": [
    "KO resistance"
-  ],
-  "firstUnitId": "8226",
-  "secondUnitId": "8234"
+  ]
  },
  {
-  "firstUnitName": "Hypaea, the Starfallen",
-  "firstUnitSlug": "hypaea-the-starfallen",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8619",
-  "secondUnitName": "Suizen, Stormlost Echo",
-  "secondUnitSlug": "suizen-stormlost-echo",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8624",
+  "units": [
+   {
+    "name": "Hypaea, the Starfallen",
+    "id": "8619",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8619.png",
+    "slug": "hypaea-the-starfallen"
+   },
+   {
+    "name": "Suizen, Stormlost Echo",
+    "id": "8624",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8624.png",
+    "slug": "suizen-stormlost-echo"
+   }
+  ],
   "releaseDate": "June 17, 2020",
   "elementalSynergyName": "Eruption",
   "elementalSynergyDesc": "Chance to negate Purge effects",
@@ -1158,17 +1526,23 @@
   "keywords": [
    "raises allies from KO",
    "KO resistance"
-  ],
-  "firstUnitId": "8619",
-  "secondUnitId": "8624"
+  ]
  },
  {
-  "firstUnitName": "Desert Paradise Nyami",
-  "firstUnitSlug": "desert-paradise-nyami",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8622",
-  "secondUnitName": "Isengrim Angler Faelan",
-  "secondUnitSlug": "isengrim-angler-faelan",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8623",
+  "units": [
+   {
+    "name": "Desert Paradise Nyami",
+    "id": "8622",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8622.png",
+    "slug": "desert-paradise-nyami"
+   },
+   {
+    "name": "Isengrim Angler Faelan",
+    "id": "8623",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8623.png",
+    "slug": "isengrim-angler-faelan"
+   }
+  ],
   "releaseDate": "June 10, 2020",
   "elementalSynergyName": "Steam",
   "elementalSynergyDesc": "Boosts DBB Synergy Shards (available when cooldown count is 0)",
@@ -1177,17 +1551,23 @@
   "dbbDesc": "76 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, spark damage, spark vulnerability infliction, spark damage boosts BB gauge, OD gauge",
   "keywords": [
    "OD gauge"
-  ],
-  "firstUnitId": "8622",
-  "secondUnitId": "8623"
+  ]
  },
  {
-  "firstUnitName": "Osiris, Lord of Silence",
-  "firstUnitSlug": "osiris-lord-of-silence",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8547",
-  "secondUnitName": "Set the Deceiver",
-  "secondUnitSlug": "set-the-deceiver",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8564",
+  "units": [
+   {
+    "name": "Osiris, Lord of Silence",
+    "id": "8547",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8547.png",
+    "slug": "osiris-lord-of-silence"
+   },
+   {
+    "name": "Set the Deceiver",
+    "id": "8564",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8564.png",
+    "slug": "set-the-deceiver"
+   }
+  ],
   "releaseDate": "June 3, 2020",
   "elementalSynergyName": "Obsidian",
   "elementalSynergyDesc": "Refills consumable items by certain amount (limited activation per battle)",
@@ -1199,17 +1579,23 @@
    "100% DoT reduction",
    "raises allies from KO",
    "KO resistance"
-  ],
-  "firstUnitId": "8547",
-  "secondUnitId": "8564"
+  ]
  },
  {
-  "firstUnitName": "Great Omniscience Sae",
-  "firstUnitSlug": "great-omniscience-sae",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8326",
-  "secondUnitName": "Lightspur Bruiser Kelsa",
-  "secondUnitSlug": "lightspur-bruiser-kelsa",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8621",
+  "units": [
+   {
+    "name": "Great Omniscience Sae",
+    "id": "8326",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8326.png",
+    "slug": "great-omniscience-sae"
+   },
+   {
+    "name": "Lightspur Bruiser Kelsa",
+    "id": "8621",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8621.png",
+    "slug": "lightspur-bruiser-kelsa"
+   }
+  ],
   "releaseDate": "May 27, 2020",
   "elementalSynergyName": "Mist",
   "elementalSynergyDesc": "Chance to purge and negate Amnesia effect",
@@ -1219,17 +1605,23 @@
   "keywords": [
    "adds status ailment infliction to attack",
    "raises allies from KO"
-  ],
-  "firstUnitId": "8326",
-  "secondUnitId": "8621"
+  ]
  },
  {
-  "firstUnitName": "Verdant Góēs Nimune",
-  "firstUnitSlug": "verdant-gs-nimune",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8328",
-  "secondUnitName": "Hellborne Honeypot Luina",
-  "secondUnitSlug": "hellborne-honeypot-luina",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8299",
+  "units": [
+   {
+    "name": "Verdant Góēs Nimune",
+    "id": "8328",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8328.png",
+    "slug": "verdant-gs-nimune"
+   },
+   {
+    "name": "Hellborne Honeypot Luina",
+    "id": "8299",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8299.png",
+    "slug": "hellborne-honeypot-luina"
+   }
+  ],
   "releaseDate": "May 27, 2020",
   "elementalSynergyName": "Obsidian",
   "elementalSynergyDesc": "Refills consumable items by certain amount (limited activation per battle)",
@@ -1240,17 +1632,23 @@
    "OD gauge",
    "raises allies from KO",
    "KO resistance"
-  ],
-  "firstUnitId": "8328",
-  "secondUnitId": "8299"
+  ]
  },
  {
-  "firstUnitName": "Deimos the Undaunted",
-  "firstUnitSlug": "deimos-the-undaunted",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8618",
-  "secondUnitName": "Void Walker Zenia",
-  "secondUnitSlug": "void-walker-zenia",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8248",
+  "units": [
+   {
+    "name": "Deimos the Undaunted",
+    "id": "8618",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8618.png",
+    "slug": "deimos-the-undaunted"
+   },
+   {
+    "name": "Void Walker Zenia",
+    "id": "8248",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640113/bravefrontier/omniunits/thumbnails/8248.png",
+    "slug": "void-walker-zenia"
+   }
+  ],
   "releaseDate": "May 13, 2020",
   "elementalSynergyName": "Cyclone",
   "elementalSynergyDesc": "Chance to negate KO resistance effects on all foes",
@@ -1259,51 +1657,69 @@
   "dbbDesc": "42 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, max HP, spark damage, BB gauge, 100% damage reduction, raises normal hit amount, damage taken restores HP",
   "keywords": [
    "raises normal hit amount"
-  ],
-  "firstUnitId": "8618",
-  "secondUnitId": "8248"
+  ]
  },
  {
-  "firstUnitName": "Emerald Summoner Lugina",
-  "firstUnitSlug": "emerald-summoner-lugina",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8571",
-  "secondUnitName": "Jade Edge Sasha",
-  "secondUnitSlug": "jade-edge-sasha",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8605",
+  "units": [
+   {
+    "name": "Emerald Summoner Lugina",
+    "id": "8571",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8571.png",
+    "slug": "emerald-summoner-lugina"
+   },
+   {
+    "name": "Jade Edge Sasha",
+    "id": "8605",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8605.png",
+    "slug": "jade-edge-sasha"
+   }
+  ],
   "releaseDate": "May 13, 2020",
   "elementalSynergyName": "Tremor",
   "elementalSynergyDesc": "Deals piercing max HP% DoT to single Thunder foe",
   "dbbId": 75,
   "dbbName": "La Veda Emerald Dance:",
   "dbbDesc": "40 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, spark damage, spark critical, spark damage boosts BB gauge",
-  "keywords": [],
-  "firstUnitId": "8571",
-  "secondUnitId": "8605"
+  "keywords": []
  },
  {
-  "firstUnitName": "Scorching Blade Roy",
-  "firstUnitSlug": "scorching-blade-roy",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8606",
-  "secondUnitName": "Ruby Summoner Seria",
-  "secondUnitSlug": "ruby-summoner-seria",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8589",
+  "units": [
+   {
+    "name": "Scorching Blade Roy",
+    "id": "8606",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8606.png",
+    "slug": "scorching-blade-roy"
+   },
+   {
+    "name": "Ruby Summoner Seria",
+    "id": "8589",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8589.png",
+    "slug": "ruby-summoner-seria"
+   }
+  ],
   "releaseDate": "May 13, 2020",
   "elementalSynergyName": "Blaze",
   "elementalSynergyDesc": "Deals piercing max HP% DoT to single Earth foe",
   "dbbId": 74,
   "dbbName": "Legacy of Akras",
   "dbbDesc": "40 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, critical damage, spark damage, Fire elemental damage, Atk, Def, Rec relative to max HP, damage taken boosts BB gauge and restores HP",
-  "keywords": [],
-  "firstUnitId": "8606",
-  "secondUnitId": "8589"
+  "keywords": []
  },
  {
-  "firstUnitName": "Silver Knight Joshua",
-  "firstUnitSlug": "silver-knight-joshua",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8617",
-  "secondUnitName": "Opal Goddess Tilith",
-  "secondUnitSlug": "opal-goddess-tilith",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8560",
+  "units": [
+   {
+    "name": "Silver Knight Joshua",
+    "id": "8617",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8617.png",
+    "slug": "silver-knight-joshua"
+   },
+   {
+    "name": "Opal Goddess Tilith",
+    "id": "8560",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8560.png",
+    "slug": "opal-goddess-tilith"
+   }
+  ],
   "releaseDate": "May 6, 2020",
   "elementalSynergyName": "Aurora",
   "elementalSynergyDesc": "Deals piercing max HP% DoT to single Dark foe",
@@ -1313,17 +1729,23 @@
   "keywords": [
    "OD gauge",
    "KO resistance"
-  ],
-  "firstUnitId": "8617",
-  "secondUnitId": "8560"
+  ]
  },
  {
-  "firstUnitName": "Millions Knives",
-  "firstUnitSlug": "millions-knives",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8616",
-  "secondUnitName": "Legato Bluesummers (Omni)",
-  "secondUnitSlug": "legato-bluesummers-omni",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8615",
+  "units": [
+   {
+    "name": "Millions Knives",
+    "id": "8616",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8616.png",
+    "slug": "millions-knives"
+   },
+   {
+    "name": "Legato Bluesummers (Omni)",
+    "id": "8615",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8615.png",
+    "slug": "legato-bluesummers-omni"
+   }
+  ],
   "releaseDate": "April 22, 2020",
   "elementalSynergyName": "Cyclone",
   "elementalSynergyDesc": "Chance to negate KO resistance effects on all foes",
@@ -1332,34 +1754,46 @@
   "dbbDesc": "44 combo grand dual attack on all foes (damage relative to remaining HP), boosts Def relative to Atk, spark damage, Thunder, Dark elemental damage, OD gauge, damage taken boosts BB gauge, inflicts Atk, Def reduction, 100% damage reduction",
   "keywords": [
    "OD gauge"
-  ],
-  "firstUnitId": "8616",
-  "secondUnitId": "8615"
+  ]
  },
  {
-  "firstUnitName": "Vash the Stampede (Omni)",
-  "firstUnitSlug": "vash-the-stampede-omni",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8609",
-  "secondUnitName": "Millions Knives",
-  "secondUnitSlug": "millions-knives",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8616",
+  "units": [
+   {
+    "name": "Vash the Stampede (Omni)",
+    "id": "8609",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8609.png",
+    "slug": "vash-the-stampede-omni"
+   },
+   {
+    "name": "Millions Knives",
+    "id": "8616",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8616.png",
+    "slug": "millions-knives"
+   }
+  ],
   "releaseDate": "April 22, 2020",
   "elementalSynergyName": "Plasma",
   "elementalSynergyDesc": "Deals piercing max HP% DoT to single Water foe",
   "dbbId": 71,
   "dbbName": "Lost July",
   "dbbDesc": "64 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, Thunder elemental damage, own Spark damage, damage taken boosts BB gauge, inflicts Atk, Def reduction",
-  "keywords": [],
-  "firstUnitId": "8609",
-  "secondUnitId": "8616"
+  "keywords": []
  },
  {
-  "firstUnitName": "Nicholas D. Wolfwood (Omni)",
-  "firstUnitSlug": "nicholas-d-wolfwood-omni",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8613",
-  "secondUnitName": "Vash the Stampede (Omni)",
-  "secondUnitSlug": "vash-the-stampede-omni",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8609",
+  "units": [
+   {
+    "name": "Nicholas D. Wolfwood (Omni)",
+    "id": "8613",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8613.png",
+    "slug": "nicholas-d-wolfwood-omni"
+   },
+   {
+    "name": "Vash the Stampede (Omni)",
+    "id": "8609",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8609.png",
+    "slug": "vash-the-stampede-omni"
+   }
+  ],
   "releaseDate": "April 22, 2020",
   "elementalSynergyName": "Eruption",
   "elementalSynergyDesc": "Chance to negate Purge effects",
@@ -1368,17 +1802,23 @@
   "dbbDesc": "64 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, Earth, Thunder elemental damage, crit damage, own Spark damage, Atk, Def, Rec relative to max HP, fills OD gauge at turn's end, inflicts Atk, Def reduction",
   "keywords": [
    "OD gauge"
-  ],
-  "firstUnitId": "8613",
-  "secondUnitId": "8609"
+  ]
  },
  {
-  "firstUnitName": "Meryl & Milly (Omni)",
-  "firstUnitSlug": "meryl-milly-omni",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8611",
-  "secondUnitName": "Vash the Stampede (Omni)",
-  "secondUnitSlug": "vash-the-stampede-omni",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8609",
+  "units": [
+   {
+    "name": "Meryl & Milly (Omni)",
+    "id": "8611",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640112/bravefrontier/omniunits/thumbnails/8611.png",
+    "slug": "meryl-milly-omni"
+   },
+   {
+    "name": "Vash the Stampede (Omni)",
+    "id": "8609",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8609.png",
+    "slug": "vash-the-stampede-omni"
+   }
+  ],
   "releaseDate": "April 15, 2020",
   "elementalSynergyName": "Tempest",
   "elementalSynergyDesc": "Chance to purge and negate Turn Skip",
@@ -1387,17 +1827,23 @@
   "dbbDesc": "48 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, spark damage, Thunder, Water elemental damage, Atk, Rec relative to Def, spark damage boosts BB gauge, 100% damage reduction, 100% evasion",
   "keywords": [
    "100% evasion"
-  ],
-  "firstUnitId": "8611",
-  "secondUnitId": "8609"
+  ]
  },
  {
-  "firstUnitName": "Seiðkona Aoife",
-  "firstUnitSlug": "seikona-aoife",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8607",
-  "secondUnitName": "Ordainer Hakuzo",
-  "secondUnitSlug": "ordainer-hakuzo",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8520",
+  "units": [
+   {
+    "name": "Seiðkona Aoife",
+    "id": "8607",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8607.png",
+    "slug": "seikona-aoife"
+   },
+   {
+    "name": "Ordainer Hakuzo",
+    "id": "8520",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8520.png",
+    "slug": "ordainer-hakuzo"
+   }
+  ],
   "releaseDate": "April 8, 2020",
   "elementalSynergyName": "Mist",
   "elementalSynergyDesc": "Chance to purge and negate Amnesia effect",
@@ -1407,17 +1853,23 @@
   "keywords": [
    "OD gauge",
    "adds status ailment infliction to attack"
-  ],
-  "firstUnitId": "8607",
-  "secondUnitId": "8520"
+  ]
  },
  {
-  "firstUnitName": "Endless Abyss Tsovinar",
-  "firstUnitSlug": "endless-abyss-tsovinar",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8427",
-  "secondUnitName": "Seiðkona Aoife",
-  "secondUnitSlug": "seikona-aoife",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8607",
+  "units": [
+   {
+    "name": "Endless Abyss Tsovinar",
+    "id": "8427",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8427.png",
+    "slug": "endless-abyss-tsovinar"
+   },
+   {
+    "name": "Seiðkona Aoife",
+    "id": "8607",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8607.png",
+    "slug": "seikona-aoife"
+   }
+  ],
   "releaseDate": "April 8, 2020",
   "elementalSynergyName": "Tsunami",
   "elementalSynergyDesc": "Deals piercing max HP% DoT to single Fire foe",
@@ -1427,17 +1879,23 @@
   "keywords": [
    "OD gauge",
    "KO resistance"
-  ],
-  "firstUnitId": "8427",
-  "secondUnitId": "8607"
+  ]
  },
  {
-  "firstUnitName": "Scourgemistress Adriesta",
-  "firstUnitSlug": "scourgemistress-adriesta",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8226",
-  "secondUnitName": "Demon Ulfhednar Zelion",
-  "secondUnitSlug": "demon-ulfhednar-zelion",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8387",
+  "units": [
+   {
+    "name": "Scourgemistress Adriesta",
+    "id": "8226",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8226.png",
+    "slug": "scourgemistress-adriesta"
+   },
+   {
+    "name": "Demon Ulfhednar Zelion",
+    "id": "8387",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640113/bravefrontier/omniunits/thumbnails/8387.png",
+    "slug": "demon-ulfhednar-zelion"
+   }
+  ],
   "releaseDate": "April 8, 2020",
   "elementalSynergyName": "Blast",
   "elementalSynergyDesc": "Deals piercing max HP% damage to single foe, raises allies from KO, grants invincibility but inflicts KO on all allies on effect end (available when foe HP is below certain amount)",
@@ -1446,17 +1904,23 @@
   "dbbDesc": "44 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, max HP, spark damage, spark damage boosts BB gauge, inflicts Atk, Def reduction, activates Thunder barrier, fills OD gauge at turn's end, 100% damage reduction",
   "keywords": [
    "OD gauge"
-  ],
-  "firstUnitId": "8226",
-  "secondUnitId": "8387"
+  ]
  },
  {
-  "firstUnitName": "Calescent Yan & Yuan",
-  "firstUnitSlug": "calescent-yan-yuan",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8382",
-  "secondUnitName": "Glacial Vail & Vidron",
-  "secondUnitSlug": "glacial-vail-vidron",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8396",
+  "units": [
+   {
+    "name": "Calescent Yan & Yuan",
+    "id": "8382",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8382.png",
+    "slug": "calescent-yan-yuan"
+   },
+   {
+    "name": "Glacial Vail & Vidron",
+    "id": "8396",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8396.png",
+    "slug": "glacial-vail-vidron"
+   }
+  ],
   "releaseDate": "April 1, 2020",
   "elementalSynergyName": "Steam",
   "elementalSynergyDesc": "Boosts DBB Synergy Shards (available when cooldown count is 0)",
@@ -1465,17 +1929,23 @@
   "dbbDesc": "50 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, all elemental damage, BB gauge, OD gauge, Def relative to Atk, fully restores HP, damage taken boosts BB gauge",
   "keywords": [
    "OD gauge"
-  ],
-  "firstUnitId": "8382",
-  "secondUnitId": "8396"
+  ]
  },
  {
-  "firstUnitName": "Scorching Blade Roy",
-  "firstUnitSlug": "scorching-blade-roy",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8606",
-  "secondUnitName": "Jade Edge Sasha",
-  "secondUnitSlug": "jade-edge-sasha",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8605",
+  "units": [
+   {
+    "name": "Scorching Blade Roy",
+    "id": "8606",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8606.png",
+    "slug": "scorching-blade-roy"
+   },
+   {
+    "name": "Jade Edge Sasha",
+    "id": "8605",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8605.png",
+    "slug": "jade-edge-sasha"
+   }
+  ],
   "releaseDate": "April 1, 2020",
   "elementalSynergyName": "Magma",
   "elementalSynergyDesc": "Chance to negate BB and OD Drain effects",
@@ -1484,17 +1954,23 @@
   "dbbDesc": "40 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec relative to max HP, spark damage, Fire, Earth elemental damage, spark damage boosts BB gauge, damage taken boosts BB gauge and restores HP, 100% DoT reduction",
   "keywords": [
    "100% DoT reduction"
-  ],
-  "firstUnitId": "8606",
-  "secondUnitId": "8605"
+  ]
  },
  {
-  "firstUnitName": "Dark Soul Dranoel",
-  "firstUnitSlug": "dark-soul-dranoel",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8343",
-  "secondUnitName": "Sagacious Mantra Ukie",
-  "secondUnitSlug": "sagacious-mantra-ukie",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8604",
+  "units": [
+   {
+    "name": "Dark Soul Dranoel",
+    "id": "8343",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8343.png",
+    "slug": "dark-soul-dranoel"
+   },
+   {
+    "name": "Sagacious Mantra Ukie",
+    "id": "8604",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8604.png",
+    "slug": "sagacious-mantra-ukie"
+   }
+  ],
   "releaseDate": "March 18, 2020",
   "elementalSynergyName": "Eruption",
   "elementalSynergyDesc": "Chance to negate Purge effects",
@@ -1503,17 +1979,23 @@
   "dbbDesc": "44 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, crit damage, spark damage, spark critical, BB gauge, raises normal hit amount, inflicts Atk, Def reduction, activates Thunder barrier",
   "keywords": [
    "raises normal hit amount"
-  ],
-  "firstUnitId": "8343",
-  "secondUnitId": "8604"
+  ]
  },
  {
-  "firstUnitName": "S'eljah, Queen in Cobalt",
-  "firstUnitSlug": "seljah-queen-in-cobalt",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8582",
-  "secondUnitName": "Cosmic Shade Kranus",
-  "secondUnitSlug": "cosmic-shade-kranus",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8478",
+  "units": [
+   {
+    "name": "S'eljah, Queen in Cobalt",
+    "id": "8582",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8582.png",
+    "slug": "seljah-queen-in-cobalt"
+   },
+   {
+    "name": "Cosmic Shade Kranus",
+    "id": "8478",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8478.png",
+    "slug": "cosmic-shade-kranus"
+   }
+  ],
   "releaseDate": "March 18, 2020",
   "elementalSynergyName": "Obsidian",
   "elementalSynergyDesc": "Refills consumable items by certain amount (limited activation per battle)",
@@ -1522,17 +2004,23 @@
   "dbbDesc": "48 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, spark damage, Atk, Def, Rec relative to max HP, Earth, Dark elemental damage, BB gauge, raises allies from KO, 100% Light, Dark damage reduction",
   "keywords": [
    "raises allies from KO"
-  ],
-  "firstUnitId": "8582",
-  "secondUnitId": "8478"
+  ]
  },
  {
-  "firstUnitName": "Storm-Bringer Tevarius",
-  "firstUnitSlug": "storm-bringer-tevarius",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8488",
-  "secondUnitName": "Sero-Anya, Eternal Light",
-  "secondUnitSlug": "sero-anya-eternal-light",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8511",
+  "units": [
+   {
+    "name": "Storm-Bringer Tevarius",
+    "id": "8488",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8488.png",
+    "slug": "storm-bringer-tevarius"
+   },
+   {
+    "name": "Sero-Anya, Eternal Light",
+    "id": "8511",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640113/bravefrontier/omniunits/thumbnails/8511.png",
+    "slug": "sero-anya-eternal-light"
+   }
+  ],
   "releaseDate": "March 18, 2020",
   "elementalSynergyName": "Radiance",
   "elementalSynergyDesc": "Chance to purge and negate HP and Heal reduction effects",
@@ -1542,51 +2030,69 @@
   "keywords": [
    "raises allies from KO",
    "KO resistance"
-  ],
-  "firstUnitId": "8488",
-  "secondUnitId": "8511"
+  ]
  },
  {
-  "firstUnitName": "Deepwood Syrinx Miell",
-  "firstUnitSlug": "deepwood-syrinx-miell",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8505",
-  "secondUnitName": "Grieving Dryad Alraune",
-  "secondUnitSlug": "grieving-dryad-alraune",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8460",
+  "units": [
+   {
+    "name": "Deepwood Syrinx Miell",
+    "id": "8505",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640113/bravefrontier/omniunits/thumbnails/8505.png",
+    "slug": "deepwood-syrinx-miell"
+   },
+   {
+    "name": "Grieving Dryad Alraune",
+    "id": "8460",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8460.png",
+    "slug": "grieving-dryad-alraune"
+   }
+  ],
   "releaseDate": "March 11, 2020",
   "elementalSynergyName": "Tremor",
   "elementalSynergyDesc": "Deals piercing max HP% DoT to single Thunder foe",
   "dbbId": 60,
   "dbbName": "Unsung Respite",
   "dbbDesc": "50 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, max HP, spark damage, BB Atk, own Atk, Def, Rec, damage taken boosts BB gauge and restores HP",
-  "keywords": [],
-  "firstUnitId": "8505",
-  "secondUnitId": "8460"
+  "keywords": []
  },
  {
-  "firstUnitName": "Reborn Íkaros Azius",
-  "firstUnitSlug": "reborn-karos-azius",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8581",
-  "secondUnitName": "Orthian Champion Avyn",
-  "secondUnitSlug": "orthian-champion-avyn",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8602",
+  "units": [
+   {
+    "name": "Reborn Íkaros Azius",
+    "id": "8581",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8581.png",
+    "slug": "reborn-karos-azius"
+   },
+   {
+    "name": "Orthian Champion Avyn",
+    "id": "8602",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8602.png",
+    "slug": "orthian-champion-avyn"
+   }
+  ],
   "releaseDate": "March 11, 2020",
   "elementalSynergyName": "Nova",
   "elementalSynergyDesc": "Chance to purge and negate Lock effects",
   "dbbId": 59,
   "dbbName": "Transdimensional Echo",
   "dbbDesc": "46 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, crit damage, spark damage, Light, Fire elemental damage, BB gauge, 100% damage reduction",
-  "keywords": [],
-  "firstUnitId": "8581",
-  "secondUnitId": "8602"
+  "keywords": []
  },
  {
-  "firstUnitName": "Void Walker Zenia",
-  "firstUnitSlug": "void-walker-zenia",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8248",
-  "secondUnitName": "Hadaron the Immortal",
-  "secondUnitSlug": "hadaron-the-immortal",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8425",
+  "units": [
+   {
+    "name": "Void Walker Zenia",
+    "id": "8248",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640113/bravefrontier/omniunits/thumbnails/8248.png",
+    "slug": "void-walker-zenia"
+   },
+   {
+    "name": "Hadaron the Immortal",
+    "id": "8425",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8425.png",
+    "slug": "hadaron-the-immortal"
+   }
+  ],
   "releaseDate": "March 11, 2020",
   "elementalSynergyName": "Abyss",
   "elementalSynergyDesc": "Deals piercing max HP% DoT to single Light foe",
@@ -1596,17 +2102,23 @@
   "keywords": [
    "raises normal hit amount",
    "KO resistance"
-  ],
-  "firstUnitId": "8248",
-  "secondUnitId": "8425"
+  ]
  },
  {
-  "firstUnitName": "Creation God Odin",
-  "firstUnitSlug": "creation-god-odin",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8601",
-  "secondUnitName": "Herald of Yggdrasil",
-  "secondUnitSlug": "herald-of-yggdrasil",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8593",
+  "units": [
+   {
+    "name": "Creation God Odin",
+    "id": "8601",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8601.png",
+    "slug": "creation-god-odin"
+   },
+   {
+    "name": "Herald of Yggdrasil",
+    "id": "8593",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640114/bravefrontier/omniunits/thumbnails/8593.png",
+    "slug": "herald-of-yggdrasil"
+   }
+  ],
   "releaseDate": "March 04, 2020",
   "elementalSynergyName": "Twilight",
   "elementalSynergyDesc": "Boosts max HP relative to Rec and raises max HP limit",
@@ -1617,34 +2129,46 @@
    "OD gauge",
    "raises allies from KO",
    "KO resistance"
-  ],
-  "firstUnitId": "8601",
-  "secondUnitId": "8593"
+  ]
  },
  {
-  "firstUnitName": "Prescient Goddess Frigg",
-  "firstUnitSlug": "prescient-goddess-frigg",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8595",
-  "secondUnitName": "Creation God Odin",
-  "secondUnitSlug": "creation-god-odin",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8601",
+  "units": [
+   {
+    "name": "Prescient Goddess Frigg",
+    "id": "8595",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8595.png",
+    "slug": "prescient-goddess-frigg"
+   },
+   {
+    "name": "Creation God Odin",
+    "id": "8601",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8601.png",
+    "slug": "creation-god-odin"
+   }
+  ],
   "releaseDate": "March 04, 2020",
   "elementalSynergyName": "Prism",
   "elementalSynergyDesc": "Deals piercing max HP% damage to single foe and boosts offense but self-KO until battle end (available when foe HP is below certain amount)",
   "dbbId": 56,
   "dbbName": "Heimskringla",
   "dbbDesc": "50 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, max HP, BB Atk, spark damage, all elemental damage, spark vulnerability infliction, BB gauge",
-  "keywords": [],
-  "firstUnitId": "8595",
-  "secondUnitId": "8601"
+  "keywords": []
  },
  {
-  "firstUnitName": "Snowtop Alpinist Alphie",
-  "firstUnitSlug": "snowtop-alpinist-alphie",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8600",
-  "secondUnitName": "Brilliant Flash Fionna",
-  "secondUnitSlug": "brilliant-flash-fionna",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8362",
+  "units": [
+   {
+    "name": "Snowtop Alpinist Alphie",
+    "id": "8600",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8600.png",
+    "slug": "snowtop-alpinist-alphie"
+   },
+   {
+    "name": "Brilliant Flash Fionna",
+    "id": "8362",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640112/bravefrontier/omniunits/thumbnails/8362.png",
+    "slug": "brilliant-flash-fionna"
+   }
+  ],
   "releaseDate": "February 26, 2020",
   "elementalSynergyName": "Prism",
   "elementalSynergyDesc": "Deals piercing max HP% damage to single foe and boosts offense but self-KO until battle end (available when foe HP is below certain amount)",
@@ -1653,17 +2177,23 @@
   "dbbDesc": "40 combo grand dual attack on all foes (damage relative to remaining HP), boosts critical damage, BB Atk, Atk relative to max HP, Def relative to Atk, damage taken restores HP, activates Light barrier, 100% damage reduction, 100% evasion, 60% chance Atk, Def reduction infliction counter",
   "keywords": [
    "100% evasion"
-  ],
-  "firstUnitId": "8600",
-  "secondUnitId": "8362"
+  ]
  },
  {
-  "firstUnitName": "Miriam, Elysia's Steel",
-  "firstUnitSlug": "miriam-elysias-steel",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8594",
-  "secondUnitName": "Evie, Twilight Heir",
-  "secondUnitSlug": "evie-twilight-heir",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8598",
+  "units": [
+   {
+    "name": "Miriam, Elysia's Steel",
+    "id": "8594",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8594.png",
+    "slug": "miriam-elysias-steel"
+   },
+   {
+    "name": "Evie, Twilight Heir",
+    "id": "8598",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8598.png",
+    "slug": "evie-twilight-heir"
+   }
+  ],
   "releaseDate": "February 19, 2020",
   "elementalSynergyName": "Cyclone",
   "elementalSynergyDesc": "Chance to negate KO resistance effects on all foes",
@@ -1673,17 +2203,23 @@
   "keywords": [
    "100% evasion",
    "100% DoT reduction"
-  ],
-  "firstUnitId": "8594",
-  "secondUnitId": "8598"
+  ]
  },
  {
-  "firstUnitName": "Faithless Seeker Renatus",
-  "firstUnitSlug": "faithless-seeker-renatus",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8597",
-  "secondUnitName": "Consecrated Sin Nimrah",
-  "secondUnitSlug": "consecrated-sin-nimrah",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8596",
+  "units": [
+   {
+    "name": "Faithless Seeker Renatus",
+    "id": "8597",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8597.png",
+    "slug": "faithless-seeker-renatus"
+   },
+   {
+    "name": "Consecrated Sin Nimrah",
+    "id": "8596",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8596.png",
+    "slug": "consecrated-sin-nimrah"
+   }
+  ],
   "releaseDate": "February 12, 2020",
   "elementalSynergyName": "Tempest",
   "elementalSynergyDesc": "Chance to purge and negate Turn Skip",
@@ -1694,34 +2230,46 @@
    "OD gauge",
    "adds status ailment infliction to attack",
    "raises allies from KO"
-  ],
-  "firstUnitId": "8597",
-  "secondUnitId": "8596"
+  ]
  },
  {
-  "firstUnitName": "VLKR Sentienel Galene",
-  "firstUnitSlug": "vlkr-sentienel-galene",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8492",
-  "secondUnitName": "Scraptech Vektor",
-  "secondUnitSlug": "scraptech-vektor",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8493",
+  "units": [
+   {
+    "name": "VLKR Sentienel Galene",
+    "id": "8492",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8492.png",
+    "slug": "vlkr-sentienel-galene"
+   },
+   {
+    "name": "Scraptech Vektor",
+    "id": "8493",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8493.png",
+    "slug": "scraptech-vektor"
+   }
+  ],
   "releaseDate": "February 12, 2020",
   "elementalSynergyName": "Quagmire",
   "elementalSynergyDesc": "Purges Barrier and Shield effects",
   "dbbId": 52,
   "dbbName": "Beyond Human",
   "dbbDesc": "72 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, spark damage, critical damage, Def relative to Atk, 100% damage reduction, negates critical and elemental damage",
-  "keywords": [],
-  "firstUnitId": "8492",
-  "secondUnitId": "8493"
+  "keywords": []
  },
  {
-  "firstUnitName": "Prescient Goddess Frigg",
-  "firstUnitSlug": "prescient-goddess-frigg",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8595",
-  "secondUnitName": "Herald of Yggdrasil",
-  "secondUnitSlug": "herald-of-yggdrasil",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8593",
+  "units": [
+   {
+    "name": "Prescient Goddess Frigg",
+    "id": "8595",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8595.png",
+    "slug": "prescient-goddess-frigg"
+   },
+   {
+    "name": "Herald of Yggdrasil",
+    "id": "8593",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640114/bravefrontier/omniunits/thumbnails/8593.png",
+    "slug": "herald-of-yggdrasil"
+   }
+  ],
   "releaseDate": "February 5, 2020",
   "elementalSynergyName": "Obsidian",
   "elementalSynergyDesc": "Refills consumable items by certain amount (limited activation per battle)",
@@ -1731,17 +2279,23 @@
   "keywords": [
    "OD gauge",
    "KO resistance"
-  ],
-  "firstUnitId": "8595",
-  "secondUnitId": "8593"
+  ]
  },
  {
-  "firstUnitName": "Wave Rider Kahiki",
-  "firstUnitSlug": "wave-rider-kahiki",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8592",
-  "secondUnitName": "Occult Reaper Ciardha",
-  "secondUnitSlug": "occult-reaper-ciardha",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8374",
+  "units": [
+   {
+    "name": "Wave Rider Kahiki",
+    "id": "8592",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8592.png",
+    "slug": "wave-rider-kahiki"
+   },
+   {
+    "name": "Occult Reaper Ciardha",
+    "id": "8374",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8374.png",
+    "slug": "occult-reaper-ciardha"
+   }
+  ],
   "releaseDate": "January 15, 2020",
   "elementalSynergyName": "Miasma",
   "elementalSynergyDesc": "Reduces healing effectiveness of single foe",
@@ -1751,17 +2305,23 @@
   "keywords": [
    "100% evasion",
    "raises normal hit amount"
-  ],
-  "firstUnitId": "8592",
-  "secondUnitId": "8374"
+  ]
  },
  {
-  "firstUnitName": "Ruby Summoner Seria",
-  "firstUnitSlug": "ruby-summoner-seria",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8589",
-  "secondUnitName": "Sapphire Summoner Karl",
-  "secondUnitSlug": "sapphire-summoner-karl",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8590",
+  "units": [
+   {
+    "name": "Ruby Summoner Seria",
+    "id": "8589",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8589.png",
+    "slug": "ruby-summoner-seria"
+   },
+   {
+    "name": "Sapphire Summoner Karl",
+    "id": "8590",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8590.png",
+    "slug": "sapphire-summoner-karl"
+   }
+  ],
   "releaseDate": "January 8, 2020",
   "elementalSynergyName": "Steam",
   "elementalSynergyDesc": "Boosts DBB Synergy Shards (available when cooldown count is 0)",
@@ -1770,17 +2330,23 @@
   "dbbDesc": "48 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, spark damage, critical damage, Fire, Water elemental damage, BB gauge, damage taken boosts BB gauge, OD gauge",
   "keywords": [
    "OD gauge"
-  ],
-  "firstUnitId": "8589",
-  "secondUnitId": "8590"
+  ]
  },
  {
-  "firstUnitName": "Devoted Yasna Armaiti",
-  "firstUnitSlug": "devoted-yasna-armaiti",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8586",
-  "secondUnitName": "Shadow Stalker Vohu",
-  "secondUnitSlug": "shadow-stalker-vohu",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8588",
+  "units": [
+   {
+    "name": "Devoted Yasna Armaiti",
+    "id": "8586",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8586.png",
+    "slug": "devoted-yasna-armaiti"
+   },
+   {
+    "name": "Shadow Stalker Vohu",
+    "id": "8588",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640112/bravefrontier/omniunits/thumbnails/8588.png",
+    "slug": "shadow-stalker-vohu"
+   }
+  ],
   "releaseDate": "January 2, 2020",
   "elementalSynergyName": "Obsidian",
   "elementalSynergyDesc": "Refills consumable items by certain amount (limited activation per battle)",
@@ -1791,17 +2357,23 @@
    "100% evasion",
    "OD gauge",
    "activates BB/SBB/UBB twice"
-  ],
-  "firstUnitId": "8586",
-  "secondUnitId": "8588"
+  ]
  },
  {
-  "firstUnitName": "Sweet Harlequin Ellie",
-  "firstUnitSlug": "sweet-harlequin-ellie",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8399",
-  "secondUnitName": "Sparkslinger Kagiya",
-  "secondUnitSlug": "sparkslinger-kagiya",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8483",
+  "units": [
+   {
+    "name": "Sweet Harlequin Ellie",
+    "id": "8399",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8399.png",
+    "slug": "sweet-harlequin-ellie"
+   },
+   {
+    "name": "Sparkslinger Kagiya",
+    "id": "8483",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8483.png",
+    "slug": "sparkslinger-kagiya"
+   }
+  ],
   "releaseDate": "January 2, 2020",
   "elementalSynergyName": "Blaze",
   "elementalSynergyDesc": "Deals piercing max HP% DoT to single Earth foe",
@@ -1811,17 +2383,23 @@
   "keywords": [
    "100% evasion",
    "perform 1 extra action within the same turn"
-  ],
-  "firstUnitId": "8399",
-  "secondUnitId": "8483"
+  ]
  },
  {
-  "firstUnitName": "Blacksteel Baelfyr",
-  "firstUnitSlug": "blacksteel-baelfyr",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8459",
-  "secondUnitName": "Infinity Starsage Zeruiah",
-  "secondUnitSlug": "infinity-starsage-zeruiah",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8251",
+  "units": [
+   {
+    "name": "Blacksteel Baelfyr",
+    "id": "8459",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8459.png",
+    "slug": "blacksteel-baelfyr"
+   },
+   {
+    "name": "Infinity Starsage Zeruiah",
+    "id": "8251",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8251.png",
+    "slug": "infinity-starsage-zeruiah"
+   }
+  ],
   "releaseDate": "December 26, 2019",
   "elementalSynergyName": "Magma",
   "elementalSynergyDesc": "Chance to negate BB and OD Drain effects",
@@ -1830,17 +2408,23 @@
   "dbbDesc": "40 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, max HP, Atk relative to Def, BB gauge, Def relative to Rec, BC, HC, Item drop rate, 80% evasion",
   "keywords": [
    "80% evasion"
-  ],
-  "firstUnitId": "8459",
-  "secondUnitId": "8251"
+  ]
  },
  {
-  "firstUnitName": "Snowy Bravura Annette",
-  "firstUnitSlug": "snowy-bravura-annette",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8481",
-  "secondUnitName": "Silent Sentinel Silvie",
-  "secondUnitSlug": "silent-sentinel-silvie",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8256",
+  "units": [
+   {
+    "name": "Snowy Bravura Annette",
+    "id": "8481",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8481.png",
+    "slug": "snowy-bravura-annette"
+   },
+   {
+    "name": "Silent Sentinel Silvie",
+    "id": "8256",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8256.png",
+    "slug": "silent-sentinel-silvie"
+   }
+  ],
   "releaseDate": "December 26, 2019",
   "elementalSynergyName": "Blast",
   "elementalSynergyDesc": "Deals piercing max HP% damage to single foe, raises allies from KO, grants Invincibility but inflicts KO on all allies on effect end (available when foe HP is below certain amount)",
@@ -1850,17 +2434,23 @@
   "keywords": [
    "OD gauge",
    "KO resistance"
-  ],
-  "firstUnitId": "8481",
-  "secondUnitId": "8256"
+  ]
  },
  {
-  "firstUnitName": "Neon Winder Rhyne",
-  "firstUnitSlug": "neon-winder-rhyne",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8584",
-  "secondUnitName": "Storm Queen Cerise",
-  "secondUnitSlug": "storm-queen-cerise",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8350",
+  "units": [
+   {
+    "name": "Neon Winder Rhyne",
+    "id": "8584",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8584.png",
+    "slug": "neon-winder-rhyne"
+   },
+   {
+    "name": "Storm Queen Cerise",
+    "id": "8350",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640117/bravefrontier/omniunits/thumbnails/8350.png",
+    "slug": "storm-queen-cerise"
+   }
+  ],
   "releaseDate": "December 18, 2019",
   "elementalSynergyName": "Blast",
   "elementalSynergyDesc": "Deals piercing max HP% damage to single foe, raises allies from KO, grants Invincibility but inflicts KO on all allies on effect end (available when foe HP is below certain amount)",
@@ -1870,17 +2460,23 @@
   "keywords": [
    "OD gauge",
    "raises normal hit amount"
-  ],
-  "firstUnitId": "8584",
-  "secondUnitId": "8350"
+  ]
  },
  {
-  "firstUnitName": "S'eljah, Queen in Cobalt",
-  "firstUnitSlug": "seljah-queen-in-cobalt",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8582",
-  "secondUnitName": "Reborn Íkaros Azius",
-  "secondUnitSlug": "reborn-karos-azius",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8581",
+  "units": [
+   {
+    "name": "S'eljah, Queen in Cobalt",
+    "id": "8582",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8582.png",
+    "slug": "seljah-queen-in-cobalt"
+   },
+   {
+    "name": "Reborn Íkaros Azius",
+    "id": "8581",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8581.png",
+    "slug": "reborn-karos-azius"
+   }
+  ],
   "releaseDate": "December 11, 2019",
   "elementalSynergyName": "Magma",
   "elementalSynergyDesc": "Chance to negate BB and OD Drain effects",
@@ -1889,51 +2485,69 @@
   "dbbDesc": "48 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, Atk, Def, Rec relative to max HP, spark damage, Fire, Earth elemental damage, BB gauge, 80% KO resistance, 100% damage reduction",
   "keywords": [
    "KO resistance"
-  ],
-  "firstUnitId": "8582",
-  "secondUnitId": "8581"
+  ]
  },
  {
-  "firstUnitName": "Mugen (Omni)",
-  "firstUnitSlug": "mugen-omni",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8576",
-  "secondUnitName": "Jin (Omni)",
-  "secondUnitSlug": "jin-omni",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8579",
+  "units": [
+   {
+    "name": "Mugen (Omni)",
+    "id": "8576",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8576.png",
+    "slug": "mugen-omni"
+   },
+   {
+    "name": "Jin (Omni)",
+    "id": "8579",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8579.png",
+    "slug": "jin-omni"
+   }
+  ],
   "releaseDate": "November 27, 2019",
   "elementalSynergyName": "Steam",
   "elementalSynergyDesc": "Boosts DBB Synergy Shards (available when cooldown count is 0)",
   "dbbId": 42,
   "dbbName": "Unholy Union",
   "dbbDesc": "40 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, Atk, Def, critical hit rate, spark damage, spark critical, critical damage, Atk, Def, Rec relative to max HP, spark vulnerability infliction",
-  "keywords": [],
-  "firstUnitId": "8576",
-  "secondUnitId": "8579"
+  "keywords": []
  },
  {
-  "firstUnitName": "Righteous Sun Cayena",
-  "firstUnitSlug": "righteous-sun-cayena",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8448",
-  "secondUnitName": "Black Magistra Noxa",
-  "secondUnitSlug": "black-magistra-noxa",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8574",
+  "units": [
+   {
+    "name": "Righteous Sun Cayena",
+    "id": "8448",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8448.png",
+    "slug": "righteous-sun-cayena"
+   },
+   {
+    "name": "Black Magistra Noxa",
+    "id": "8574",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8574.png",
+    "slug": "black-magistra-noxa"
+   }
+  ],
   "releaseDate": "November 13, 2019",
   "elementalSynergyName": "Pyre",
   "elementalSynergyDesc": "Chance to purge and negate Doom and Ennui effects",
   "dbbId": 41,
   "dbbName": "Valhalla of the Damned",
   "dbbDesc": "44 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, Atk, Def, Rec, critical hit rate, spark damage, critical damage, Fire, Dark elemental damage, BB gauge, fully restores HP, inflicts Atk, Def reduction",
-  "keywords": [],
-  "firstUnitId": "8448",
-  "secondUnitId": "8574"
+  "keywords": []
  },
  {
-  "firstUnitName": "Spirit Conjurer Astrid",
-  "firstUnitSlug": "spirit-conjurer-astrid",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8444",
-  "secondUnitName": "Angelic Gale Raquiel",
-  "secondUnitSlug": "angelic-gale-raquiel",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8421",
+  "units": [
+   {
+    "name": "Spirit Conjurer Astrid",
+    "id": "8444",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8444.png",
+    "slug": "spirit-conjurer-astrid"
+   },
+   {
+    "name": "Angelic Gale Raquiel",
+    "id": "8421",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8421.png",
+    "slug": "angelic-gale-raquiel"
+   }
+  ],
   "releaseDate": "November 13, 2019",
   "elementalSynergyName": "Mist",
   "elementalSynergyDesc": "Chance to purge and negate Amnesia effect",
@@ -1942,17 +2556,23 @@
   "dbbDesc": "50 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, spark damage, spark critical, spark vulnerability infliction, Atk, Def, Rec relative to max HP, 100% DoT reduction, fully restores HP",
   "keywords": [
    "100% DoT reduction"
-  ],
-  "firstUnitId": "8444",
-  "secondUnitId": "8421"
+  ]
  },
  {
-  "firstUnitName": "Emerald Summoner Lugina",
-  "firstUnitSlug": "emerald-summoner-lugina",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8571",
-  "secondUnitName": "Prime Minister Paris",
-  "secondUnitSlug": "prime-minister-paris",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8572",
+  "units": [
+   {
+    "name": "Emerald Summoner Lugina",
+    "id": "8571",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8571.png",
+    "slug": "emerald-summoner-lugina"
+   },
+   {
+    "name": "Prime Minister Paris",
+    "id": "8572",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8572.png",
+    "slug": "prime-minister-paris"
+   }
+  ],
   "releaseDate": "November 6, 2019",
   "elementalSynergyName": "Eruption",
   "elementalSynergyDesc": "Chance to negate Purge effects",
@@ -1961,34 +2581,46 @@
   "dbbDesc": "40 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, spark damage, probable spark critical, spark damage boosts BB gauge, damage taken boosts BB gauge, 80% KO resistance, fully restores HP",
   "keywords": [
    "KO resistance"
-  ],
-  "firstUnitId": "8571",
-  "secondUnitId": "8572"
+  ]
  },
  {
-  "firstUnitName": "Martial Meowster Bayley",
-  "firstUnitSlug": "martial-meowster-bayley",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8475",
-  "secondUnitName": "Blink Builder Peter",
-  "secondUnitSlug": "blink-builder-peter",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8570",
+  "units": [
+   {
+    "name": "Martial Meowster Bayley",
+    "id": "8475",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8475.png",
+    "slug": "martial-meowster-bayley"
+   },
+   {
+    "name": "Blink Builder Peter",
+    "id": "8570",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8570.png",
+    "slug": "blink-builder-peter"
+   }
+  ],
   "releaseDate": "October 30, 2019",
   "elementalSynergyName": "Prism",
   "elementalSynergyDesc": "Deals piercing max HP% damage to single foe and boosts offense but self-KO until battle end (available when foe HP is below certain amount)",
   "dbbId": 38,
   "dbbName": "Final Flourish!",
   "dbbDesc": "56 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, spark damage, spark critical, spark vulnerability infliction, spark damage boosts BB gauge, damage taken boosts BB gauge and restores HP, inflicts Atk, Def reduction",
-  "keywords": [],
-  "firstUnitId": "8475",
-  "secondUnitId": "8570"
+  "keywords": []
  },
  {
-  "firstUnitName": "Señora Muerte Lydia",
-  "firstUnitSlug": "seora-muerte-lydia",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8567",
-  "secondUnitName": "Bound-Walker Yin-Yin",
-  "secondUnitSlug": "bound-walker-yin-yin",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8568",
+  "units": [
+   {
+    "name": "Señora Muerte Lydia",
+    "id": "8567",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8567.png",
+    "slug": "seora-muerte-lydia"
+   },
+   {
+    "name": "Bound-Walker Yin-Yin",
+    "id": "8568",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8568.png",
+    "slug": "bound-walker-yin-yin"
+   }
+  ],
   "releaseDate": "October 23, 2019",
   "elementalSynergyName": "Prism",
   "elementalSynergyDesc": "Deals piercing max HP% damage to single foe and boosts offense but self-KO until battle end (available when foe HP is below certain amount)",
@@ -1997,34 +2629,46 @@
   "dbbDesc": "40 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, max HP, critical damage, spark damage, damage against status afflicted foes, Atk, Def relative to max HP, adds status ailment infliction to attack, inflicts Atk, Def reduction",
   "keywords": [
    "adds status ailment infliction to attack"
-  ],
-  "firstUnitId": "8567",
-  "secondUnitId": "8568"
+  ]
  },
  {
-  "firstUnitName": "Bloodpoison Florence",
-  "firstUnitSlug": "bloodpoison-florence",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8455",
-  "secondUnitName": "Plaguewarden Theodor",
-  "secondUnitSlug": "plaguewarden-theodor",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8457",
+  "units": [
+   {
+    "name": "Bloodpoison Florence",
+    "id": "8455",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8455.png",
+    "slug": "bloodpoison-florence"
+   },
+   {
+    "name": "Plaguewarden Theodor",
+    "id": "8457",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640120/bravefrontier/omniunits/thumbnails/8457.png",
+    "slug": "plaguewarden-theodor"
+   }
+  ],
   "releaseDate": "October 23, 2019",
   "elementalSynergyName": "Miasma",
   "elementalSynergyDesc": "Reduces healing effectiveness of single foe",
   "dbbId": 36,
   "dbbName": "Lovesick",
   "dbbDesc": "46 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, max HP, critical hit rate, critical damage, spark damage, Def relative to Atk, Atk relative to Def, inflicts Atk, Def reduction",
-  "keywords": [],
-  "firstUnitId": "8455",
-  "secondUnitId": "8457"
+  "keywords": []
  },
  {
-  "firstUnitName": "Ma'at, Arbiter of Order",
-  "firstUnitSlug": "maat-arbiter-of-order",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8565",
-  "secondUnitName": "Set the Deceiver",
-  "secondUnitSlug": "set-the-deceiver",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8564",
+  "units": [
+   {
+    "name": "Ma'at, Arbiter of Order",
+    "id": "8565",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8565.png",
+    "slug": "maat-arbiter-of-order"
+   },
+   {
+    "name": "Set the Deceiver",
+    "id": "8564",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8564.png",
+    "slug": "set-the-deceiver"
+   }
+  ],
   "releaseDate": "October 16, 2019",
   "elementalSynergyName": "Cyclone",
   "elementalSynergyDesc": "Chance to negate KO resistance effects on all foes",
@@ -2033,17 +2677,23 @@
   "dbbDesc": "70 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, spark damage, critical damage, Thunder, Dark elemental damage, fills BB gauge, inflicts Atk, Def reduction, 100% damage reduction, 100% DoT reduction",
   "keywords": [
    "100% DoT reduction"
-  ],
-  "firstUnitId": "8565",
-  "secondUnitId": "8564"
+  ]
  },
  {
-  "firstUnitName": "Sunless Warden Rahotep",
-  "firstUnitSlug": "sunless-warden-rahotep",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8262",
-  "secondUnitName": "Midnight Judge Neferet",
-  "secondUnitSlug": "midnight-judge-neferet",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8283",
+  "units": [
+   {
+    "name": "Sunless Warden Rahotep",
+    "id": "8262",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8262.png",
+    "slug": "sunless-warden-rahotep"
+   },
+   {
+    "name": "Midnight Judge Neferet",
+    "id": "8283",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640112/bravefrontier/omniunits/thumbnails/8283.png",
+    "slug": "midnight-judge-neferet"
+   }
+  ],
   "releaseDate": "October 16, 2019",
   "elementalSynergyName": "Pyre",
   "elementalSynergyDesc": "Chance to purge and negate Doom and Ennui effects",
@@ -2053,17 +2703,23 @@
   "keywords": [
    "adds status ailment infliction to attack",
    "raises allies from KO"
-  ],
-  "firstUnitId": "8262",
-  "secondUnitId": "8283"
+  ]
  },
  {
-  "firstUnitName": "Saviors Viviane & Orah",
-  "firstUnitSlug": "saviors-viviane-orah",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8562",
-  "secondUnitName": "Enhanced Being Gwenevere",
-  "secondUnitSlug": "enhanced-being-gwenevere",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8528",
+  "units": [
+   {
+    "name": "Saviors Viviane & Orah",
+    "id": "8562",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8562.png",
+    "slug": "saviors-viviane-orah"
+   },
+   {
+    "name": "Enhanced Being Gwenevere",
+    "id": "8528",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8528.png",
+    "slug": "enhanced-being-gwenevere"
+   }
+  ],
   "releaseDate": "October 2, 2019",
   "elementalSynergyName": "Quagmire",
   "elementalSynergyDesc": "Purges Barrier and Shield effects",
@@ -2074,17 +2730,23 @@
    "100% evasion",
    "100% DoT reduction",
    "KO resistance"
-  ],
-  "firstUnitId": "8562",
-  "secondUnitId": "8528"
+  ]
  },
  {
-  "firstUnitName": "Opal Goddess Tilith",
-  "firstUnitSlug": "opal-goddess-tilith",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8560",
-  "secondUnitName": "Brilliant Scientist Noel",
-  "secondUnitSlug": "brilliant-scientist-noel",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8561",
+  "units": [
+   {
+    "name": "Opal Goddess Tilith",
+    "id": "8560",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8560.png",
+    "slug": "opal-goddess-tilith"
+   },
+   {
+    "name": "Brilliant Scientist Noel",
+    "id": "8561",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8561.png",
+    "slug": "brilliant-scientist-noel"
+   }
+  ],
   "releaseDate": "September 25, 2019",
   "elementalSynergyName": "Twilight",
   "elementalSynergyDesc": "Boosts max HP relative to Rec and raises max HP limit",
@@ -2095,17 +2757,23 @@
    "OD gauge",
    "raises allies from KO",
    "KO resistance"
-  ],
-  "firstUnitId": "8560",
-  "secondUnitId": "8561"
+  ]
  },
  {
-  "firstUnitName": "Grand Mitrailleur Serin",
-  "firstUnitSlug": "grand-mitrailleur-serin",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8462",
-  "secondUnitName": "Feral Commissar Kassia",
-  "secondUnitSlug": "feral-commissar-kassia",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8559",
+  "units": [
+   {
+    "name": "Grand Mitrailleur Serin",
+    "id": "8462",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640114/bravefrontier/omniunits/thumbnails/8462.png",
+    "slug": "grand-mitrailleur-serin"
+   },
+   {
+    "name": "Feral Commissar Kassia",
+    "id": "8559",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8559.png",
+    "slug": "feral-commissar-kassia"
+   }
+  ],
   "releaseDate": "September 18, 2019",
   "elementalSynergyName": "Tempest",
   "elementalSynergyDesc": "Chance to purge and negate Turn Skip",
@@ -2115,51 +2783,69 @@
   "keywords": [
    "raises normal hit amount",
    "raises allies from KO"
-  ],
-  "firstUnitId": "8462",
-  "secondUnitId": "8559"
+  ]
  },
  {
-  "firstUnitName": "Canny Quentin & Quinn",
-  "firstUnitSlug": "canny-quentin-quinn",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8424",
-  "secondUnitName": "Astute Ebony & Enid",
-  "secondUnitSlug": "astute-ebony-enid",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8440",
+  "units": [
+   {
+    "name": "Canny Quentin & Quinn",
+    "id": "8424",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8424.png",
+    "slug": "canny-quentin-quinn"
+   },
+   {
+    "name": "Astute Ebony & Enid",
+    "id": "8440",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8440.png",
+    "slug": "astute-ebony-enid"
+   }
+  ],
   "releaseDate": "September 18, 2019",
   "elementalSynergyName": "Twilight",
   "elementalSynergyDesc": "Boosts max HP relative to Rec and raises max HP limit",
   "dbbId": 30,
   "dbbName": "Serendipitous Ruination",
   "dbbDesc": "52 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, own Atk, own Spark damage, Def, Rec relative to Atk, BB gauge, Light, Dark elemental damage, inflicts Atk, Def reduction",
-  "keywords": [],
-  "firstUnitId": "8424",
-  "secondUnitId": "8440"
+  "keywords": []
  },
  {
-  "firstUnitName": "Crocodile Lord Kawab",
-  "firstUnitSlug": "crocodile-lord-kawab",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8379",
-  "secondUnitName": "Divine Rogue Hetepheres",
-  "secondUnitSlug": "divine-rogue-hetepheres",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8314",
+  "units": [
+   {
+    "name": "Crocodile Lord Kawab",
+    "id": "8379",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8379.png",
+    "slug": "crocodile-lord-kawab"
+   },
+   {
+    "name": "Divine Rogue Hetepheres",
+    "id": "8314",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8314.png",
+    "slug": "divine-rogue-hetepheres"
+   }
+  ],
   "releaseDate": "September 11, 2019",
   "elementalSynergyName": "Quagmire",
   "elementalSynergyDesc": "Purges Barrier and Shield effects",
   "dbbId": 29,
   "dbbName": "Blades of the Wild",
   "dbbDesc": "46 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, Atk, Def, Rec, BB gauge, Spark damage, BB Atk, Atk, Def, Rec relative to max HP, Spark damage restores HP, activates Earth barrier",
-  "keywords": [],
-  "firstUnitId": "8379",
-  "secondUnitId": "8314"
+  "keywords": []
  },
  {
-  "firstUnitName": "Thoth, Scribe of Gods",
-  "firstUnitSlug": "thoth-scribe-of-gods",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8557",
-  "secondUnitName": "Ptah, Master of Truth",
-  "secondUnitSlug": "ptah-master-of-truth",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8555",
+  "units": [
+   {
+    "name": "Thoth, Scribe of Gods",
+    "id": "8557",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8557.png",
+    "slug": "thoth-scribe-of-gods"
+   },
+   {
+    "name": "Ptah, Master of Truth",
+    "id": "8555",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8555.png",
+    "slug": "ptah-master-of-truth"
+   }
+  ],
   "releaseDate": "September 11, 2019",
   "elementalSynergyName": "Mist",
   "elementalSynergyDesc": "Chance to purge and negate Amnesia effect",
@@ -2168,34 +2854,46 @@
   "dbbDesc": "50 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, critical hit rate, critical damage, Spark damage, Water, Light elemental damage, 100% damage reduction, damage taken boosts BB gauge, 80% KO resistance",
   "keywords": [
    "KO resistance"
-  ],
-  "firstUnitId": "8557",
-  "secondUnitId": "8555"
+  ]
  },
  {
-  "firstUnitName": "Ancient's Voice Hyshka",
-  "firstUnitSlug": "ancients-voice-hyshka",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8554",
-  "secondUnitName": "Redtail Rebel Feòra",
-  "secondUnitSlug": "redtail-rebel-fera",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8553",
+  "units": [
+   {
+    "name": "Ancient's Voice Hyshka",
+    "id": "8554",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8554.png",
+    "slug": "ancients-voice-hyshka"
+   },
+   {
+    "name": "Redtail Rebel Feòra",
+    "id": "8553",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640113/bravefrontier/omniunits/thumbnails/8553.png",
+    "slug": "redtail-rebel-fera"
+   }
+  ],
   "releaseDate": "August 28, 2019",
   "elementalSynergyName": "Cyclone",
   "elementalSynergyDesc": "Chance to negate KO resistance effects on all foes",
   "dbbId": 27,
   "dbbName": "Dominating Nature",
   "dbbDesc": "56 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, Atk, Def, Rec, BC, HC, item drop rate, Spark damage, all elemental damage, Spark vulnerability infliction, Spark damage boosts BB gauge",
-  "keywords": [],
-  "firstUnitId": "8554",
-  "secondUnitId": "8553"
+  "keywords": []
  },
  {
-  "firstUnitName": "Dusk Star Khepratum",
-  "firstUnitSlug": "dusk-star-khepratum",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8323",
-  "secondUnitName": "Bright Star Persenet",
-  "secondUnitSlug": "bright-star-persenet",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8376",
+  "units": [
+   {
+    "name": "Dusk Star Khepratum",
+    "id": "8323",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8323.png",
+    "slug": "dusk-star-khepratum"
+   },
+   {
+    "name": "Bright Star Persenet",
+    "id": "8376",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8376.png",
+    "slug": "bright-star-persenet"
+   }
+  ],
   "releaseDate": "August 28, 2019",
   "elementalSynergyName": "Radiance",
   "elementalSynergyDesc": "Chance to purge and negate HP and Heal reduction effects",
@@ -2204,34 +2902,46 @@
   "dbbDesc": "48 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, Atk, Def, Rec, Atk relative to Rec, fully restores HP, inflicts Atk reduction, 100% DoT reduction, 100% Water, Thunder damage reduction, Spark damage boosts BB gauge",
   "keywords": [
    "100% DoT reduction"
-  ],
-  "firstUnitId": "8323",
-  "secondUnitId": "8376"
+  ]
  },
  {
-  "firstUnitName": "Highland Belter Ulagan",
-  "firstUnitSlug": "highland-belter-ulagan",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8551",
-  "secondUnitName": "Tempest Prophet Fennia",
-  "secondUnitSlug": "tempest-prophet-fennia",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8486",
+  "units": [
+   {
+    "name": "Highland Belter Ulagan",
+    "id": "8551",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8551.png",
+    "slug": "highland-belter-ulagan"
+   },
+   {
+    "name": "Tempest Prophet Fennia",
+    "id": "8486",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640113/bravefrontier/omniunits/thumbnails/8486.png",
+    "slug": "tempest-prophet-fennia"
+   }
+  ],
   "releaseDate": "August 21, 2019",
   "elementalSynergyName": "Eruption",
   "elementalSynergyDesc": "Chance to negate Purge effects",
   "dbbId": 25,
   "dbbName": "Diviner's Doomchant",
   "dbbDesc": "46 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, Atk, Def, Rec, critical hit rate, critical damage, BB Atk, BB gauge to max, fully restores HP, purges DoT effects",
-  "keywords": [],
-  "firstUnitId": "8551",
-  "secondUnitId": "8486"
+  "keywords": []
  },
  {
-  "firstUnitName": "Osiris, Lord of Silence",
-  "firstUnitSlug": "osiris-lord-of-silence",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8547",
-  "secondUnitName": "Aesys, Great of Magic",
-  "secondUnitSlug": "aesys-great-of-magic",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8549",
+  "units": [
+   {
+    "name": "Osiris, Lord of Silence",
+    "id": "8547",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8547.png",
+    "slug": "osiris-lord-of-silence"
+   },
+   {
+    "name": "Aesys, Great of Magic",
+    "id": "8549",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8549.png",
+    "slug": "aesys-great-of-magic"
+   }
+  ],
   "releaseDate": "August 14, 2019",
   "elementalSynergyName": "Magma",
   "elementalSynergyDesc": "Chance to negate BB and OD Drain effects",
@@ -2242,17 +2952,23 @@
    "purges LS and ES Lock",
    "raises allies from KO",
    "KO resistance"
-  ],
-  "firstUnitId": "8547",
-  "secondUnitId": "8549"
+  ]
  },
  {
-  "firstUnitName": "Grandmagos Ceulfan",
-  "firstUnitSlug": "grandmagos-ceulfan",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8297",
-  "secondUnitName": "Ordainer Hakuzo",
-  "secondUnitSlug": "ordainer-hakuzo",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8520",
+  "units": [
+   {
+    "name": "Grandmagos Ceulfan",
+    "id": "8297",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8297.png",
+    "slug": "grandmagos-ceulfan"
+   },
+   {
+    "name": "Ordainer Hakuzo",
+    "id": "8520",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8520.png",
+    "slug": "ordainer-hakuzo"
+   }
+  ],
   "releaseDate": "August 7, 2019",
   "elementalSynergyName": "Aurora",
   "elementalSynergyDesc": "Deals piercing max HP% DoT to single Dark foe",
@@ -2262,17 +2978,23 @@
   "keywords": [
    "OD gauge",
    "adds status ailment infliction to attack"
-  ],
-  "firstUnitId": "8297",
-  "secondUnitId": "8520"
+  ]
  },
  {
-  "firstUnitName": "Tidal Stormsurge Galea",
-  "firstUnitSlug": "tidal-stormsurge-galea",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8295",
-  "secondUnitName": "White Death Ravea",
-  "secondUnitSlug": "white-death-ravea",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8320",
+  "units": [
+   {
+    "name": "Tidal Stormsurge Galea",
+    "id": "8295",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8295.png",
+    "slug": "tidal-stormsurge-galea"
+   },
+   {
+    "name": "White Death Ravea",
+    "id": "8320",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8320.png",
+    "slug": "white-death-ravea"
+   }
+  ],
   "releaseDate": "August 7, 2019",
   "elementalSynergyName": "Tsunami",
   "elementalSynergyDesc": "Deals piercing max HP% DoT to single Fire foe",
@@ -2281,17 +3003,23 @@
   "dbbDesc": "60 combo grand dual attack on all foes (damage relative to remaining HP), boosts Def, max HP, Atk relative to Def, Spark damage, Water elemental damage, critical damage, OD gauge, activates Water barrier",
   "keywords": [
    "OD gauge"
-  ],
-  "firstUnitId": "8295",
-  "secondUnitId": "8320"
+  ]
  },
  {
-  "firstUnitName": "Demoniac Czorag",
-  "firstUnitSlug": "demoniac-czorag",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8503",
-  "secondUnitName": "Starpyre Lancer Zeis",
-  "secondUnitSlug": "starpyre-lancer-zeis",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8281",
+  "units": [
+   {
+    "name": "Demoniac Czorag",
+    "id": "8503",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8503.png",
+    "slug": "demoniac-czorag"
+   },
+   {
+    "name": "Starpyre Lancer Zeis",
+    "id": "8281",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8281.png",
+    "slug": "starpyre-lancer-zeis"
+   }
+  ],
   "releaseDate": "August 1, 2019",
   "elementalSynergyName": "Blaze",
   "elementalSynergyDesc": "Deals piercing max HP% DoT to single Earth foe",
@@ -2300,17 +3028,23 @@
   "dbbDesc": "40 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Spark damage, Fire elemental damage, critical damage, adds status ailment infliction to attack, 100% Fire, Earth damage reduction, Spark vulnerability infliction",
   "keywords": [
    "adds status ailment infliction to attack"
-  ],
-  "firstUnitId": "8503",
-  "secondUnitId": "8281"
+  ]
  },
  {
-  "firstUnitName": "Wildblood Tarok",
-  "firstUnitSlug": "wildblood-tarok",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8546",
-  "secondUnitName": "Blightblade Wannahon",
-  "secondUnitSlug": "blightblade-wannahon",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8253",
+  "units": [
+   {
+    "name": "Wildblood Tarok",
+    "id": "8546",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8546.png",
+    "slug": "wildblood-tarok"
+   },
+   {
+    "name": "Blightblade Wannahon",
+    "id": "8253",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8253.png",
+    "slug": "blightblade-wannahon"
+   }
+  ],
   "releaseDate": "July 29, 2019",
   "elementalSynergyName": "Tremor",
   "elementalSynergyDesc": "Deals piercing max HP% DoT to single Thunder foe",
@@ -2321,17 +3055,23 @@
    "purges LS and ES Lock",
    "raises normal hit amount",
    "adds status ailment infliction to attack"
-  ],
-  "firstUnitId": "8546",
-  "secondUnitId": "8253"
+  ]
  },
  {
-  "firstUnitName": "Tide Diva Sennie",
-  "firstUnitSlug": "tide-diva-sennie",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8544",
-  "secondUnitName": "Jelly Princess Chryssa",
-  "secondUnitSlug": "jelly-princess-chryssa",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8545",
+  "units": [
+   {
+    "name": "Tide Diva Sennie",
+    "id": "8544",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8544.png",
+    "slug": "tide-diva-sennie"
+   },
+   {
+    "name": "Jelly Princess Chryssa",
+    "id": "8545",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8545.png",
+    "slug": "jelly-princess-chryssa"
+   }
+  ],
   "releaseDate": "July 24, 2019",
   "elementalSynergyName": "Tempest",
   "elementalSynergyDesc": "Chance to purge and negate Turn Skip",
@@ -2342,17 +3082,23 @@
    "OD gauge",
    "100% DoT reduction",
    "raises allies from KO"
-  ],
-  "firstUnitId": "8544",
-  "secondUnitId": "8545"
+  ]
  },
  {
-  "firstUnitName": "Skittish Chemist Charlie",
-  "firstUnitSlug": "skittish-chemist-charlie",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8542",
-  "secondUnitName": "Black Nocturne Lico",
-  "secondUnitSlug": "black-nocturne-lico",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8508",
+  "units": [
+   {
+    "name": "Skittish Chemist Charlie",
+    "id": "8542",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8542.png",
+    "slug": "skittish-chemist-charlie"
+   },
+   {
+    "name": "Black Nocturne Lico",
+    "id": "8508",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8508.png",
+    "slug": "black-nocturne-lico"
+   }
+  ],
   "releaseDate": "July 19, 2019",
   "elementalSynergyName": "Miasma",
   "elementalSynergyDesc": "Reduces healing effectiveness of single foe",
@@ -2363,17 +3109,23 @@
    "100% evasion",
    "raises allies from KO",
    "KO resistance"
-  ],
-  "firstUnitId": "8542",
-  "secondUnitId": "8508"
+  ]
  },
  {
-  "firstUnitName": "Merciful Honoka & Hisa",
-  "firstUnitSlug": "merciful-honoka-hisa",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8410",
-  "secondUnitName": "Fearless Tate & Tama",
-  "secondUnitSlug": "fearless-tate-tama",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8416",
+  "units": [
+   {
+    "name": "Merciful Honoka & Hisa",
+    "id": "8410",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8410.png",
+    "slug": "merciful-honoka-hisa"
+   },
+   {
+    "name": "Fearless Tate & Tama",
+    "id": "8416",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8416.png",
+    "slug": "fearless-tate-tama"
+   }
+  ],
   "releaseDate": "July 17, 2019",
   "elementalSynergyName": "Eruption",
   "elementalSynergyDesc": "Chance to negate Purge effects",
@@ -2384,17 +3136,17 @@
    "100% evasion",
    "OD gauge",
    "raises allies from KO"
-  ],
-  "firstUnitId": "8410",
-  "secondUnitId": "8416"
+  ]
  },
  {
-  "firstUnitName": "Touka Kirishima",
-  "firstUnitSlug": "touka-kirishima",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/undefined",
-  "secondUnitName": "Ken Kaneki",
-  "secondUnitSlug": "ken-kaneki",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/undefined",
+  "units": [
+   {
+    "name": "Touka Kirishima"
+   },
+   {
+    "name": "Ken Kaneki"
+   }
+  ],
   "releaseDate": "July 10, 2019",
   "elementalSynergyName": "Radiance",
   "elementalSynergyDesc": "Chance to purge and negate HP and Heal reduction effects",
@@ -2408,12 +3160,20 @@
   ]
  },
  {
-  "firstUnitName": "Ultor the Unbreakable",
-  "firstUnitSlug": "ultor-the-unbreakable",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8402",
-  "secondUnitName": "Aurelia the Ascended",
-  "secondUnitSlug": "aurelia-the-ascended",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8453",
+  "units": [
+   {
+    "name": "Ultor the Unbreakable",
+    "id": "8402",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8402.png",
+    "slug": "ultor-the-unbreakable"
+   },
+   {
+    "name": "Aurelia the Ascended",
+    "id": "8453",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8453.png",
+    "slug": "aurelia-the-ascended"
+   }
+  ],
   "releaseDate": "June 26, 2019",
   "elementalSynergyName": "Nova",
   "elementalSynergyDesc": "Chance to purge and negate Lock effects",
@@ -2423,17 +3183,23 @@
   "keywords": [
    "raises allies from KO",
    "KO resistance"
-  ],
-  "firstUnitId": "8402",
-  "secondUnitId": "8453"
+  ]
  },
  {
-  "firstUnitName": "Noble Prince Mordred",
-  "firstUnitSlug": "noble-prince-mordred",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8412",
-  "secondUnitName": "Dark Path Arthur",
-  "secondUnitSlug": "dark-path-arthur",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8293",
+  "units": [
+   {
+    "name": "Noble Prince Mordred",
+    "id": "8412",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8412.png",
+    "slug": "noble-prince-mordred"
+   },
+   {
+    "name": "Dark Path Arthur",
+    "id": "8293",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8293.png",
+    "slug": "dark-path-arthur"
+   }
+  ],
   "releaseDate": "June 26, 2019",
   "elementalSynergyName": "Radiance",
   "elementalSynergyDesc": "Chance to purge and negate HP and Heal reduction effects",
@@ -2442,17 +3208,23 @@
   "dbbDesc": "40 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, critical hit rate, critical damage, Spark damage, Thunder and Light elemental damage, damage against status afflicted foes, activates BB/SBB/UBB twice",
   "keywords": [
    "activates BB/SBB/UBB twice"
-  ],
-  "firstUnitId": "8412",
-  "secondUnitId": "8293"
+  ]
  },
  {
-  "firstUnitName": "Undefeated Apex Utheria",
-  "firstUnitSlug": "undefeated-apex-utheria",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8531",
-  "secondUnitName": "Kaiser Apex Gilgamesh",
-  "secondUnitSlug": "kaiser-apex-gilgamesh",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8513",
+  "units": [
+   {
+    "name": "Undefeated Apex Utheria",
+    "id": "8531",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8531.png",
+    "slug": "undefeated-apex-utheria"
+   },
+   {
+    "name": "Kaiser Apex Gilgamesh",
+    "id": "8513",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8513.png",
+    "slug": "kaiser-apex-gilgamesh"
+   }
+  ],
   "releaseDate": "June 19, 2019",
   "elementalSynergyName": "Tempest",
   "elementalSynergyDesc": "Chance to purge and negate Turn Skip",
@@ -2461,34 +3233,46 @@
   "dbbDesc": "70 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, Spark damage, all elemental damage, max HP, OD gauge, BB Atk",
   "keywords": [
    "OD gauge"
-  ],
-  "firstUnitId": "8531",
-  "secondUnitId": "8513"
+  ]
  },
  {
-  "firstUnitName": "Executioner Katerin",
-  "firstUnitSlug": "executioner-katerin",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8512",
-  "secondUnitName": "Titanbane Primus Keres",
-  "secondUnitSlug": "titanbane-primus-keres",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8279",
+  "units": [
+   {
+    "name": "Executioner Katerin",
+    "id": "8512",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8512.png",
+    "slug": "executioner-katerin"
+   },
+   {
+    "name": "Titanbane Primus Keres",
+    "id": "8279",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8279.png",
+    "slug": "titanbane-primus-keres"
+   }
+  ],
   "releaseDate": "June 19, 2019",
   "elementalSynergyName": "Abyss",
   "elementalSynergyDesc": "Deals piercing max HP% DoT to single Light foe",
   "dbbId": 12,
   "dbbName": "Stygian Despair",
   "dbbDesc": "48 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def relative to max HP, critical damage, Dark elemental damage, max HP, 100% Light, Dark damage reduction, inflicts Atk, Def reduction",
-  "keywords": [],
-  "firstUnitId": "8512",
-  "secondUnitId": "8279"
+  "keywords": []
  },
  {
-  "firstUnitName": "Boorish Beauty Inoko",
-  "firstUnitSlug": "boorish-beauty-inoko",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8530",
-  "secondUnitName": "Gilded Seraph Vanila",
-  "secondUnitSlug": "gilded-seraph-vanila",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8495",
+  "units": [
+   {
+    "name": "Boorish Beauty Inoko",
+    "id": "8530",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8530.png",
+    "slug": "boorish-beauty-inoko"
+   },
+   {
+    "name": "Gilded Seraph Vanila",
+    "id": "8495",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8495.png",
+    "slug": "gilded-seraph-vanila"
+   }
+  ],
   "releaseDate": "June 12, 2019",
   "elementalSynergyName": "Nova",
   "elementalSynergyDesc": "Chance to purge and negate Lock effects",
@@ -2497,17 +3281,23 @@
   "dbbDesc": "32 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, critical damage, Spark damage, max HP, 100% evasion, fully restores HP, damage taken boosts BB gauge",
   "keywords": [
    "100% evasion"
-  ],
-  "firstUnitId": "8530",
-  "secondUnitId": "8495"
+  ]
  },
  {
-  "firstUnitName": "Viper Blitzkrieg Durumn",
-  "firstUnitSlug": "viper-blitzkrieg-durumn",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8267",
-  "secondUnitName": "Mageslayer Vrána",
-  "secondUnitSlug": "mageslayer-vrna",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8527",
+  "units": [
+   {
+    "name": "Viper Blitzkrieg Durumn",
+    "id": "8267",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8267.png",
+    "slug": "viper-blitzkrieg-durumn"
+   },
+   {
+    "name": "Mageslayer Vrána",
+    "id": "8527",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8527.png",
+    "slug": "mageslayer-vrna"
+   }
+  ],
   "releaseDate": "June 6, 2019",
   "elementalSynergyName": "Plasma",
   "elementalSynergyDesc": "Deals piercing max HP% DoT to single Water foe",
@@ -2517,17 +3307,23 @@
   "keywords": [
    "OD gauge",
    "adds status ailment infliction to attack"
-  ],
-  "firstUnitId": "8267",
-  "secondUnitId": "8527"
+  ]
  },
  {
-  "firstUnitName": "Giselle Tyndalos",
-  "firstUnitSlug": "giselle-tyndalos",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8490",
-  "secondUnitName": "Cosmic Shade Kranus",
-  "secondUnitSlug": "cosmic-shade-kranus",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8478",
+  "units": [
+   {
+    "name": "Giselle Tyndalos",
+    "id": "8490",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640112/bravefrontier/omniunits/thumbnails/8490.png",
+    "slug": "giselle-tyndalos"
+   },
+   {
+    "name": "Cosmic Shade Kranus",
+    "id": "8478",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8478.png",
+    "slug": "cosmic-shade-kranus"
+   }
+  ],
   "releaseDate": "May 29, 2019",
   "elementalSynergyName": "Miasma",
   "elementalSynergyDesc": "Reduces healing effectiveness of single foe",
@@ -2539,17 +3335,23 @@
    "activates BB/SBB/UBB twice",
    "adds status ailment infliction to attack",
    "raises allies from KO"
-  ],
-  "firstUnitId": "8490",
-  "secondUnitId": "8478"
+  ]
  },
  {
-  "firstUnitName": "Empyrean Juno-Seto",
-  "firstUnitSlug": "empyrean-juno-seto",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8187",
-  "secondUnitName": "Void Pasha Ensa-Taya",
-  "secondUnitSlug": "void-pasha-ensa-taya",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8190",
+  "units": [
+   {
+    "name": "Empyrean Juno-Seto",
+    "id": "8187",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8187.png",
+    "slug": "empyrean-juno-seto"
+   },
+   {
+    "name": "Void Pasha Ensa-Taya",
+    "id": "8190",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8190.png",
+    "slug": "void-pasha-ensa-taya"
+   }
+  ],
   "releaseDate": "May 29, 2019",
   "elementalSynergyName": "Twilight",
   "elementalSynergyDesc": "Boosts max HP relative to Rec and raises max HP limit",
@@ -2558,17 +3360,23 @@
   "dbbDesc": "48 combo grand dual attack on all foes (damage relative to remaining HP), boosts BB Atk, Spark damage, damage against status afflicted foes, 90% raises allies from KO, fully restores HP, activates Light barrier",
   "keywords": [
    "raises allies from KO"
-  ],
-  "firstUnitId": "8187",
-  "secondUnitId": "8190"
+  ]
  },
  {
-  "firstUnitName": "Carnal Domina Beatrix",
-  "firstUnitSlug": "carnal-domina-beatrix",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8347",
-  "secondUnitName": "Headpumtress Semira",
-  "secondUnitSlug": "headpumtress-semira",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8456",
+  "units": [
+   {
+    "name": "Carnal Domina Beatrix",
+    "id": "8347",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8347.png",
+    "slug": "carnal-domina-beatrix"
+   },
+   {
+    "name": "Headpumtress Semira",
+    "id": "8456",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8456.png",
+    "slug": "headpumtress-semira"
+   }
+  ],
   "releaseDate": "May 29, 2019",
   "elementalSynergyName": "Abyss",
   "elementalSynergyDesc": "Deals piercing max HP% DoT to single Light foe",
@@ -2577,17 +3385,23 @@
   "dbbDesc": "52 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, critical hit rate, critical damage, Spark damage, BC, HC drop rate, Dark elemental damage, 85% activates BB/SBB/UBB twice, fully restores HP",
   "keywords": [
    "activates BB/SBB/UBB twice"
-  ],
-  "firstUnitId": "8347",
-  "secondUnitId": "8456"
+  ]
  },
  {
-  "firstUnitName": "Lunar Maiden QiuTong",
-  "firstUnitSlug": "lunar-maiden-qiutong",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8446",
-  "secondUnitName": "Sero-Anya, Eternal Light",
-  "secondUnitSlug": "sero-anya-eternal-light",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8511",
+  "units": [
+   {
+    "name": "Lunar Maiden QiuTong",
+    "id": "8446",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8446.png",
+    "slug": "lunar-maiden-qiutong"
+   },
+   {
+    "name": "Sero-Anya, Eternal Light",
+    "id": "8511",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640113/bravefrontier/omniunits/thumbnails/8511.png",
+    "slug": "sero-anya-eternal-light"
+   }
+  ],
   "releaseDate": "May 29, 2019",
   "elementalSynergyName": "Aurora",
   "elementalSynergyDesc": "Deals piercing max HP% DoT to single Dark foe",
@@ -2599,17 +3413,23 @@
    "100% DoT reduction",
    "raises allies from KO",
    "KO resistance"
-  ],
-  "firstUnitId": "8446",
-  "secondUnitId": "8511"
+  ]
  },
  {
-  "firstUnitName": "N'an-Wang-Mu",
-  "firstUnitSlug": "nan-wang-mu",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8393",
-  "secondUnitName": "Storm-Bringer Tevarius",
-  "secondUnitSlug": "storm-bringer-tevarius",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8488",
+  "units": [
+   {
+    "name": "N'an-Wang-Mu",
+    "id": "8393",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8393.png",
+    "slug": "nan-wang-mu"
+   },
+   {
+    "name": "Storm-Bringer Tevarius",
+    "id": "8488",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8488.png",
+    "slug": "storm-bringer-tevarius"
+   }
+  ],
   "releaseDate": "May 29, 2019",
   "elementalSynergyName": "Plasma",
   "elementalSynergyDesc": "Deals piercing max HP% DoT to single Water foe",
@@ -2620,17 +3440,23 @@
    "OD gauge",
    "raises allies from KO",
    "KO resistance"
-  ],
-  "firstUnitId": "8393",
-  "secondUnitId": "8488"
+  ]
  },
  {
-  "firstUnitName": "Time-Weaver Elaina",
-  "firstUnitSlug": "time-weaver-elaina",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8403",
-  "secondUnitName": "Nia, Maverick of Elysia",
-  "secondUnitSlug": "nia-maverick-of-elysia",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8452",
+  "units": [
+   {
+    "name": "Time-Weaver Elaina",
+    "id": "8403",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8403.png",
+    "slug": "time-weaver-elaina"
+   },
+   {
+    "name": "Nia, Maverick of Elysia",
+    "id": "8452",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640112/bravefrontier/omniunits/thumbnails/8452.png",
+    "slug": "nia-maverick-of-elysia"
+   }
+  ],
   "releaseDate": "May 29, 2019",
   "elementalSynergyName": "Tremor",
   "elementalSynergyDesc": "Deals piercing max HP% DoT to single Thunder foe",
@@ -2642,17 +3468,23 @@
    "activates BB/SBB/UBB twice",
    "raises allies from KO",
    "KO resistance"
-  ],
-  "firstUnitId": "8403",
-  "secondUnitId": "8452"
+  ]
  },
  {
-  "firstUnitName": "Abyssherald Saerenthis",
-  "firstUnitSlug": "abyssherald-saerenthis",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8489",
-  "secondUnitName": "Endless Abyss Tsovinar",
-  "secondUnitSlug": "endless-abyss-tsovinar",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8427",
+  "units": [
+   {
+    "name": "Abyssherald Saerenthis",
+    "id": "8489",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8489.png",
+    "slug": "abyssherald-saerenthis"
+   },
+   {
+    "name": "Endless Abyss Tsovinar",
+    "id": "8427",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8427.png",
+    "slug": "endless-abyss-tsovinar"
+   }
+  ],
   "releaseDate": "May 29, 2019",
   "elementalSynergyName": "Tsunami",
   "elementalSynergyDesc": "Deals piercing max HP% DoT to single Fire foe",
@@ -2662,34 +3494,46 @@
   "keywords": [
    "activates BB/SBB/UBB twice",
    "raises allies from KO"
-  ],
-  "firstUnitId": "8489",
-  "secondUnitId": "8427"
+  ]
  },
  {
-  "firstUnitName": "Doombringer Azurai",
-  "firstUnitSlug": "doombringer-azurai",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8201",
-  "secondUnitName": "Korzan the Damned",
-  "secondUnitSlug": "korzan-the-damned",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8449",
+  "units": [
+   {
+    "name": "Doombringer Azurai",
+    "id": "8201",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8201.png",
+    "slug": "doombringer-azurai"
+   },
+   {
+    "name": "Korzan the Damned",
+    "id": "8449",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640109/bravefrontier/omniunits/thumbnails/8449.png",
+    "slug": "korzan-the-damned"
+   }
+  ],
   "releaseDate": "May 29, 2019",
   "elementalSynergyName": "Blaze",
   "elementalSynergyDesc": "Deals piercing max HP% DoT to single Earth foe",
   "dbbId": 2,
   "dbbName": "Catastrophe Naraka",
   "dbbDesc": "40 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, own max HP, BB Atk, Atk, Def, Rec, critical hit rate, critical damage, Spark damage, damage taken restores HP",
-  "keywords": [],
-  "firstUnitId": "8201",
-  "secondUnitId": "8449"
+  "keywords": []
  },
  {
-  "firstUnitName": "Xenon, Son of Elysia",
-  "firstUnitSlug": "xenon-son-of-elysia",
-  "firstUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8401",
-  "secondUnitName": "Estia, Regalia of Elysia",
-  "secondUnitSlug": "estia-regalia-of-elysia",
-  "secondUnitThumbnail": "https://res.cloudinary.com/satyakresna/image/upload/bravefrontier/omniunits/thumbnails/8414",
+  "units": [
+   {
+    "name": "Xenon, Son of Elysia",
+    "id": "8401",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640111/bravefrontier/omniunits/thumbnails/8401.png",
+    "slug": "xenon-son-of-elysia"
+   },
+   {
+    "name": "Estia, Regalia of Elysia",
+    "id": "8414",
+    "thumbnail": "https://res.cloudinary.com/satyakresna/image/upload/v1726640110/bravefrontier/omniunits/thumbnails/8414.png",
+    "slug": "estia-regalia-of-elysia"
+   }
+  ],
   "releaseDate": "May 29, 2019",
   "elementalSynergyName": "Twilight",
   "elementalSynergyDesc": "Boosts max HP relative to Rec and raises max HP limit",
@@ -2699,8 +3543,6 @@
   "keywords": [
    "OD gauge",
    "100% DoT reduction"
-  ],
-  "firstUnitId": "8401",
-  "secondUnitId": "8414"
+  ]
  }
 ]

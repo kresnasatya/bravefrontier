@@ -1,8 +1,8 @@
 import collectUnits from '../units/index.js';
-import unitProfiles from '../units/scrapers/profile.js';
-import omniUnitProfiles from './scrapers/profile.js';
-import spUnits from './scrapers/sp.js';
-import { isJapaneseAndChineseChars } from '../helper.js';
+import unitProfiles from '../units/profile.js';
+import omniUnitProfiles from './profile.js';
+import spUnits from './sp.js';
+import { isJapaneseAndChineseChars, uploadToCloudinary } from '../helper.js';
 import keywords from './keywords.js';
 
 export default async () => {
@@ -21,6 +21,8 @@ export default async () => {
         await unitProfiles(omniUnits);
         await omniUnitProfiles(omniUnits);
         await spUnits(omniUnits);
+        await uploadToCloudinary(omniUnits, {key: 'thumbnail', folder: 'bravefrontier/omniunits/thumbnails'});
+        await uploadToCloudinary(omniUnits, {key: 'artwork', folder: 'bravefrontier/omniunits/artworks'});
 
         omniUnits = omniUnits.filter(unit => {
             // Remove link property because I don't need it

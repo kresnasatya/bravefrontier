@@ -20,20 +20,12 @@ jobs:
       run: cd scrapers && pnpm install
     - name: Store scraping omni units into raw file
       run: cd scrapers && pnpm run omniunits:raw
+      env:
+        CLOUDINARY_CLOUD_NAME: ${{ secrets.CLOUDINARY_CLOUD_NAME }}
+        CLOUDINARY_API_KEY: ${{ secrets.CLOUDINARY_API_KEY }}
+        CLOUDINARY_API_SECRET: ${{ secrets.CLOUDINARY_API_SECRET }}
     - name: Store scrapping dbbs into raw file
       run: cd scrapers && pnpm run dbbs:raw
-    - name: Upload omniunits thumbnails to Cloudinary
-      run: cd scrapers && pnpm run omniunits:thumbnails
-      env:
-        CLOUDINARY_CLOUD_NAME: ${{ secrets.CLOUDINARY_CLOUD_NAME }}
-        CLOUDINARY_API_KEY: ${{ secrets.CLOUDINARY_API_KEY }}
-        CLOUDINARY_API_SECRET: ${{ secrets.CLOUDINARY_API_SECRET }}
-    - name: Upload omniunits artworks to Cloudinary
-      run: cd scrapers && pnpm run omniunits:artworks
-      env:
-        CLOUDINARY_CLOUD_NAME: ${{ secrets.CLOUDINARY_CLOUD_NAME }}
-        CLOUDINARY_API_KEY: ${{ secrets.CLOUDINARY_API_KEY }}
-        CLOUDINARY_API_SECRET: ${{ secrets.CLOUDINARY_API_SECRET }}
     - name: Commit files
       run: |
         git config --local user.email ${{ secrets.MY_EMAIL }}
