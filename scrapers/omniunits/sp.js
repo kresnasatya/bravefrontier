@@ -94,15 +94,14 @@ export default async (omniUnits) => {
                                 sp.push({ cost, option });
                             }
 
-                            let filteredSP = sp.filter(function ({ cost, option }) {
-                                const key = `${cost}${option}`;
-                                return !this.has(key) && this.add(key);
-                            }, new Set);
-
-                            let initialValue = 0;
-                            let total = filteredSP.reduce((accumulator, currentValue) => {
-                                return accumulator + currentValue.cost;
-                            }, initialValue);
+                            let filteredSP = sp.filter(item => {
+                                return Object.values(item).some(value => value !== undefined);
+                            });
+                            
+                            let total = 0;
+                            for (const sp of filteredSP) {
+                                total += sp.cost;
+                            }
 
                             spRecommendation.push({ title, analysis, total, list: filteredSP });
                             unit.spRecommendation = spRecommendation;
