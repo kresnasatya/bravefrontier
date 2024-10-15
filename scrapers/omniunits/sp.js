@@ -11,7 +11,7 @@ const getUnitSP = async (link) => {
 export default async (omniUnits) => {
     try {
         for (const unit of omniUnits) {
-            console.log(`${unit.id}. ${unit.name}: start`);
+            console.log(`${unit.id}. ${unit.name}: start get specialty points`);
             let text = await getUnitSP(`${unit.link}/Builds`);
             if (text !== undefined) {
                 const document = (new DOMParser).parseFromString(text, "text/html");
@@ -30,9 +30,9 @@ export default async (omniUnits) => {
                 for (let i = 0; i < enhancementsRows.length; i++) {
                     const row = enhancementsRows[i];
                     const columns = row.querySelectorAll('td');
+                    let cost, option, detail_option;
                     for (let j = 0; j < columns.length; j++) {
                         const column = columns[j];
-                        let cost, option, detail_option;
                         if (row.querySelectorAll('td').length > 1) {
                             if (j === 2) {
                                 cost = parseInt(column.textContent.trim());
@@ -78,9 +78,9 @@ export default async (omniUnits) => {
                             for (let j = 0; j < newRows.length; j++) {
                                 const row = newRows[j];
                                 const columns = row.querySelectorAll('td');
+                                let cost, option;
                                 for (let k = 0; k < columns.length; k++) {
                                     const column = columns[k];
-                                    let cost, option;
                                     if (row.querySelectorAll('td').length > 1) {
                                         if (k === 0) {
                                             cost = parseInt(column.textContent.trim());
@@ -110,7 +110,7 @@ export default async (omniUnits) => {
                     }
                 }
             }
-            console.log(`${unit.id}. ${unit.name}: done`);
+            console.log(`${unit.id}. ${unit.name}: done get specialty points`);
         }
     } catch (error) {
         console.log(error);
