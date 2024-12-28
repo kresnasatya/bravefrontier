@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kresnasatya/bravefrontier-netlify.git"
+    "url": "git+https://github.com/kresnasatya/bravefrontier.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kresnasatya/bravefrontier-netlify/issues"
+    "url": "https://github.com/kresnasatya/bravefrontier/issues"
   },
-  "homepage": "https://github.com/kresnasatya/bravefrontier-netlify#readme",
+  "homepage": "https://github.com/kresnasatya/bravefrontier#readme",
   "engines": {
     "node": ">=20"
   },
