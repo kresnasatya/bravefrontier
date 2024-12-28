@@ -56,8 +56,8 @@ function filterDbbs(ctx) {
             document.getElementById('searchElementalSynergy').value = searchEsName;
             searchDbbKeywordsEl.setChoiceByValue(selectedKeywords);
             filteredDbbs = ctx.state.dbbs.filter(dbb => {
-                let firstUnitName = dbb.firstUnitName.toLowerCase();
-                let secondUnitName = dbb.secondUnitName.toLowerCase();
+                let firstUnitName = dbb.units[0].name.toLowerCase();
+                let secondUnitName = dbb.units[1].name.toLowerCase();
                 let esName = dbb.elementalSynergyName;
                 if (firstUnitName.includes(searchName.toLowerCase()) || secondUnitName.includes(searchName.toLocaleLowerCase())) {
                     if (esName === searchEsName) {
@@ -73,8 +73,8 @@ function filterDbbs(ctx) {
             document.getElementById('searchOmniUnitName').value = searchName;
             searchDbbKeywordsEl.setChoiceByValue(selectedKeywords);
             filteredDbbs = ctx.state.dbbs.filter(dbb => {
-                let firstUnitName = dbb.firstUnitName.toLowerCase();
-                let secondUnitName = dbb.secondUnitName.toLowerCase();
+                let firstUnitName = dbb.units[0].name.toLowerCase();
+                let secondUnitName = dbb.units[1].name.toLowerCase();
                 if (firstUnitName.includes(searchName.toLowerCase()) || secondUnitName.includes(searchName.toLocaleLowerCase())) {
                     for (let keyword of dbb.keywords) {
                         if (selectedKeywords.includes(keyword)) {
@@ -87,8 +87,8 @@ function filterDbbs(ctx) {
             document.getElementById('searchOmniUnitName').value = searchName;
             document.getElementById('searchElementalSynergy').value = searchEsName;
             filteredDbbs = ctx.state.dbbs.filter(dbb => {
-                let firstUnitName = dbb.firstUnitName.toLowerCase();
-                let secondUnitName = dbb.secondUnitName.toLowerCase();
+                let firstUnitName = dbb.units[0].name.toLowerCase();
+                let secondUnitName = dbb.units[1].name.toLowerCase();
                 let esName = dbb.elementalSynergyName;
                 if (firstUnitName.includes(searchName.toLowerCase()) || secondUnitName.includes(searchName.toLocaleLowerCase())) {
                     if (esName === searchEsName) {
@@ -112,8 +112,8 @@ function filterDbbs(ctx) {
         } else if (searchName) {
             document.getElementById('searchOmniUnitName').value = searchName;
             filteredDbbs = ctx.state.dbbs.filter(dbb => {
-                let firstUnitName = dbb.firstUnitName.toLowerCase();
-                let secondUnitName = dbb.secondUnitName.toLowerCase();
+                let firstUnitName = dbb.units[0].name.toLowerCase();
+                let secondUnitName = dbb.units[1].name.toLowerCase();
                 if (firstUnitName.includes(searchName.toLowerCase()) || secondUnitName.includes(searchName.toLocaleLowerCase())) {
                     return dbb;
                 }

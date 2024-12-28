@@ -22,8 +22,8 @@ export const handler = async (event, context) => {
         if (esname && unitname) {
             result = dbbs.filter(dbb => {
                 let esName = dbb.elementalSynergyName.toLowerCase();
-                let firstUnitName = dbb.firstUnitName.toLowerCase();
-                let secondUnitName = dbb.secondUnitName.toLowerCase();
+                let firstUnitName = dbb.units[0].name.toLowerCase();
+                let secondUnitName = dbb.units[1].name.toLowerCase();
                 if (lowerCase(esname) === esName) {
                     if (firstUnitName.includes(lowerCase(unitname)) || secondUnitName.includes(lowerCase(unitname))) {
                         return dbb;
@@ -39,8 +39,8 @@ export const handler = async (event, context) => {
             });
         } else if (unitname) {
             result = dbbs.filter(dbb => {
-                let firstUnitName = dbb.firstUnitName.toLowerCase();
-                let secondUnitName = dbb.secondUnitName.toLowerCase();
+                let firstUnitName = dbb.units[0].name.toLowerCase();
+                let secondUnitName = dbb.units[1].name.toLowerCase();
                 if (firstUnitName.includes(lowerCase(unitname)) || secondUnitName.includes(lowerCase(unitname))) {
                     return dbb;
                 }
