@@ -69,3 +69,7 @@ export async function onRequest(context) {
 
     return response;
 }
+
+function lowerCase(string) {
+    return string.toLowerCase();
+}
