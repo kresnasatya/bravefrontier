@@ -59,7 +59,7 @@ export default async (req, res) => {
     }
 
     res.setHeader('Access-Control-Allow-Origin', '*');
-    res.setHeader('Cache-Control', 'public, s-maxage=60, stale-while-revalidate');
+    res.setHeader('Cache-Control', 'public, max-age=0, s-maxage=86400');
     res.status(200).send(result);
 }
 
