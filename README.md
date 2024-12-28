@@ -54,9 +54,9 @@ To get detail of omni unit, use slug of omni unit. To see the omni unit slug, pl
 
 Example:
 
-Netlify: https://bravefrontier.netlify.app/omniunits/ignis-halcyon-vargas
+Netlify: https://bravefrontier.netlify.app/api/omniunits/ignis-halcyon-vargas
 
-Vercel: https://bravefrontier.vercel.app/omniunits/ignis-halcyon-vargas
+Vercel: https://bravefrontier.vercel.app/api/omniunits/ignis-halcyon-vargas
 
 ### How to run?
 
