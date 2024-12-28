@@ -1,10 +1,6 @@
 # Brave Frontier Wiki
 
-Brave Frontier Wiki Unofficial for Omniunits and Dual Brave Burst (DBB)s hosted in Netlify and Vercel. This project is an experiment how to deploy web app and API into duo popular serverless functions (Netlify and Vercel) in single repository.
-
-Netlify: https://bravefrontier.netlify.app
-
-Vercel: https://bravefrontier.vercel.app
+Brave Frontier Wiki Unofficial for Omniunits and Dual Brave Burst (DBB)s hosted in trio Serverless: Cloudflare, Netlify, and Vercel. This project is an experiment how to deploy web app and API into trio popular serverless functions like Cloudflare, Netlify, and Vercel into a single repository.
 
 ## Features
 
@@ -17,50 +13,41 @@ Vercel: https://bravefrontier.vercel.app
 
 ## API
 
-### Omni Units
+You can use one of three domains below to access the API.
 
-To get list of omniunits use `/api/omniunits`.
+- Cloudflare: https://bravefrontier.pages.dev
+- Netlify: https://bravefrontier.netlify.app
+- Vercel: https://bravefrontier.vercel.app
 
-Netlify: https://bravefrontier.netlify.app/api/omniunits
+### Endpoint
 
-Vercel: https://bravefrontier.vercel.app/api/omniunits
+List of available endpoints are omni units and DBB (Dual Brave Burst).
 
+#### Omni Units
 
-You can also get specific list of omni units by param search like `name` and `element`.
+`/api/omniunits` => Get list of omni units.
 
-Example:
+You may also get specific list of omni units by param search like `name` and `element`.
 
-1. By `name` 
+- `/api/omniunits?name=war` => By name.
+- `/api/omniunits?element=fire` => By element. Available elements are fire, earth, water, thunder, dark, light.
+- `/api/omniunits?name=sun&element=fire` => By name and element.
 
-Netlify: https://bravefrontier.netlify.app/api/omniunits?name=war
+`/api/omniunits/ignis-halcyon-vargas` => Get detail of omni unit by using slug of omniunit.
 
-Vercel: https://bravefrontier.vercel.app/api/omniunits?name=war
+#### DBB
 
-2. By `element` https://bravefrontier.netlify.app/api/omniunits?element=fire
+`/api/dbbs` => => Get list of dual brave burst.
 
-Netlify: https://bravefrontier.netlify.app/api/omniunits?element=fire
+You may also get specific list of dbbs by param search like `esname` and `unitname`.
 
-Vercel: https://bravefrontier.vercel.app/api/omniunits?element=fire
-
-3. By `name` and `element`
-
-Netlify: https://bravefrontier.netlify.app/api/omniunits?name=sun&element=fire
-
-Vercel: https://bravefrontier.vercel.app/api/omniunits?name=sun&element=fire
-
-### Detail of Omni Unit
-
-To get detail of omni unit, use slug of omni unit. To see the omni unit slug, please see in get omni units API.
-
-Example:
-
-Netlify: https://bravefrontier.netlify.app/api/omniunits/ignis-halcyon-vargas
-
-Vercel: https://bravefrontier.vercel.app/api/omniunits/ignis-halcyon-vargas
+- `/api/dbbs?esname=aurora` => By Elemental Strategy. Available elemental strategies are abyss, aurora, blast, blaze, cyclone, eruption, magma, miasma, mist, obsidian, nova, plasma, prism, pyre, quagmire, radiance, steam, tempest, tremor, tsunami, twilight.
+- `/api/dbbs?unitname=tilith` => By omni unit name.
+- `/api/dbbs?esname=aurora&unitname=tilith` => By elemental strategy and omni unit name.
 
 ### How to run?
 
-> This project requires Node JS version 18
+> This project requires Node JS version 20.
 
 This project require [Netlify CLI](https://cli.netlify.com/netlify-dev/) and [Vercel CLI](https://vercel.com/docs/cli).
 
@@ -68,3 +55,4 @@ This project require [Netlify CLI](https://cli.netlify.com/netlify-dev/) and [Ve
 - Install dependencies with `pnpm install`.
 - Run `netlify dev` in first terminal.
 - Run `vercel dev` in second terminal.
+- Run `pnpm run pages:dev` in third terminal.
